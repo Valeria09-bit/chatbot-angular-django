@@ -1,0 +1,35 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Backend Django",
+      "type": "shell",
+      "command": "bash -c 'cd backend && source bin/activate && python manage.py runserver'",
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": {
+        "panel": "dedicated",
+        "reveal": "always",
+        "group": "dev"
+      }
+    },
+    {
+      "label": "Frontend Angular",
+      "type": "shell",
+      "command": "bash -c 'cd frontend && source ~/.nvm/nvm.sh && nvm use 24 && ng serve'",
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": {
+        "panel": "dedicated",
+        "reveal": "always",
+        "group": "dev"
+      }
+    },
+    {
+      "label": "Iniciar todo (Django + Angular)",
+      "dependsOn": ["Backend Django", "Frontend Angular"],
+      "dependsOrder": "parallel",
+      "problemMatcher": []
+    }
+  ]
+}
