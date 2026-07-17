@@ -1,46 +1,23 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Angular</title>
-  </head>
-  <body>
-    <h1>¡Hola, mundo!</h1>
-    <p>Parrafo para usar lo que es angular</p>
-    <ul>
-      <li>Django</li>
-      <li>Python</li>
-      <li>Angular</li>
-    </ul>
-      
-  </body>
-</html>
-<hr>
-<h2>El backend dice: <span style="color: blue;">{{ mensajeDjango }}</span></h2>
-<h2>El backend dice: <span style="color: green;">{{ mensajeDjango2 }}</span></h2>
+<div class="chat-container">
+  <div class="chat-header">
+    InfoBot
+  </div>
 
-<hr>
+  <div class="chat-window">
+    <div
+      *ngFor="let msg of mensajes"
+      class="mensaje"
+      [ngClass]="msg.emisor === 'usuario' ? 'mensaje-usuario' : 'mensaje-bot'">
+      {{ msg.texto }}
+    </div>
+  </div>
 
-<!-- suma-->
-<h2>Suma de dos números</h2>
-<input type="number" [(ngModel)]="numero1" placeholder="Número 1">
-<input type="number" [(ngModel)]="numero2" placeholder="Número 2">
-<button (click)="enviarSuma()">Sumar</button>
-<p *ngIf="resultadoSuma !== null">Resultado: <strong>{{ resultadoSuma }}</strong></p>
-
-<hr>
-
-<!-- concatenacion --> 
-<h2>Concatenar texto</h2>
-<input type="text" [(ngModel)]="texto1" placeholder="Texto 1">
-<input type="text" [(ngModel)]="texto2" placeholder="Texto 2">
-<button (click)="enviarConcatenar()">Concatenar</button>
-<p *ngIf="resultadoConcatenar">Resultado: <strong>{{ resultadoConcatenar }}</strong></p>
-
-<hr>
-
-<!-- arreglo invertido -->
-<h2>Invertir arreglo</h2>
-<p>Escribe separando los por comas (ej: 1,2,3,4)</p>
-<input type="text" [(ngModel)]="arregloTexto" placeholder="1,2,3,4">
-<button (click)="enviarInvertir()">Invertir</button>
-<p *ngIf="resultadoInvertir.length > 0">Resultado: <strong>{{ resultadoInvertir }}</strong></p>
+  <div class="chat-input">
+    <input
+      type="text"
+      [(ngModel)]="mensajeUsuario"
+      placeholder="Escribir aquí....."
+      (keyup.enter)="enviarMensaje()">
+    <button (click)="enviarMensaje()">Enviar</button>
+  </div>
+</div>
