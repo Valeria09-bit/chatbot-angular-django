@@ -1,0 +1,5 @@
+modelo,parametros,tiempo_segundos,calidad_respuesta
+Qwen2.5-0.5B-Instruct,0.5B,11.87,"Coherente pero da una dato aleatoreo de ("dura 4 años"); da una respuesta corta"
+Qwen2.5-1.5B-Instruct,1.5B,17.45,"Buena estructura con numeracion, da ejemplos reales de como se aplica"
+SmolLM2-1.7B-Instruct,1.7B,20.04,"Buena respuesta pero se corta antes de terminar la idea"
+Qwen2.5-3B-Instruct,3B,39.49,"Respuesta completa y precisa, menciona datos como Big Data y otros conceptos correctos"
