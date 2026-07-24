@@ -29,7 +29,7 @@ export class App {
     const texto = this.mensajeUsuario.trim();
     if (!texto) return;
 
-    // 1. Mostramos el mensaje del usuario (derecha)
+    // 1. Mostramos el mensaje del emisor usuario 
     this.mensajes.push({ texto, emisor: 'usuario' });
     this.mensajeUsuario = '';
 
