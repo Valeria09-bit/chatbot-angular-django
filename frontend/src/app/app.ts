@@ -17,6 +17,9 @@ interface Mensaje {
 })
 export class App {
 
+  // Controla si se muestra u oculta la ventana del chat
+  chatAbierto = false;
+
   mensajes: Mensaje[] = [
     { texto: '¡Buen día! Soy InfoBot, dime en qué puedo ayudarte', emisor: 'bot' }
   ];
@@ -25,11 +28,16 @@ export class App {
 
   constructor(private http: HttpClient) {}
 
+  // Abre o cierra la ventana del chat al hacer clic en la burbuja
+  toggleChat() {
+    this.chatAbierto = !this.chatAbierto;
+  }
+
   enviarMensaje() {
     const texto = this.mensajeUsuario.trim();
     if (!texto) return;
 
-    // 1. Mostramos el mensaje del emisor usuario 
+    // 1. Mostramos el mensaje del emisor usuario
     this.mensajes.push({ texto, emisor: 'usuario' });
     this.mensajeUsuario = '';
 

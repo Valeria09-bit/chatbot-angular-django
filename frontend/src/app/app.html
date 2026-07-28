@@ -1,6 +1,13 @@
-<div class="chat-container">
+<!-- Burbuja flotante -->
+<button class="chat-bubble" (click)="toggleChat()">
+  💬
+</button>
+
+
+<div class="chat-container" *ngIf="chatAbierto">
   <div class="chat-header">
     InfoBot
+    <button class="cerrar-btn" (click)="toggleChat()">✕</button>
   </div>
 
   <div class="chat-window">
