@@ -17,7 +17,6 @@ interface Mensaje {
 })
 export class App {
 
-  // Controla si se muestra u oculta la ventana del chat
   chatAbierto = false;
 
   mensajes: Mensaje[] = [
@@ -28,7 +27,6 @@ export class App {
 
   constructor(private http: HttpClient) {}
 
-  // Abre o cierra la ventana del chat al hacer clic en la burbuja
   toggleChat() {
     this.chatAbierto = !this.chatAbierto;
   }
@@ -37,11 +35,9 @@ export class App {
     const texto = this.mensajeUsuario.trim();
     if (!texto) return;
 
-    // 1. Mostramos el mensaje del emisor usuario
     this.mensajes.push({ texto, emisor: 'usuario' });
     this.mensajeUsuario = '';
 
-    // 2. Lo mandamos a Django para que responda
     this.http.post<any>('http://127.0.0.1:8000/api/chatbot/', { mensaje: texto })
       .subscribe({
         next: (respuesta) => {
