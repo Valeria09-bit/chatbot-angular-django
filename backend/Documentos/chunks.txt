@@ -1,31 +1,16 @@
-=== CHUNK 0 ===
---- Página 1 ---
 2026-2
 
-=== CHUNK 1 ===
---- Página 2 ---
 CONVOCATORIA DE MAESTRÍA
 INFOTEC 2026-2
 INFOTEC Centro de Investigación e Innovación en Tecnologías de la
-Constancia de participación al finalizar el curso
 Información y Comunicación convoca a todas las personas interesadas en el
 ámbito de las Tecnologías de la Información y la Comunicación (TIC) y que
-Acceso a materiales y ejercicios prácticos
 deseen contribuir a impulsar la transformación digital mediante el desarrollo
-
-=== CHUNK 2 ===
 científico, tecnológico y la innovación, a postularse como aspirantes al siguiente
 programDeas daerr oplolos gdrea dhaob: ilidades críticas para proyectos reales
 1. PROGRAMA Y MODALIDAD DE ESTUDIO
 Maestría en Ciencia de Datos e Información
-Los ogr mas e Técn Supe Un e it e TEC o de
-nve gación e In c en T a fo ón mun n (en
 Consideraciones:
-ela te “INFOTE , tie opó form pr ona i de
-qu nes han co uido d ivel io s
-Duración: 2 años (4 semestres).
-
-=== CHUNK 3 ===
 Duración: 2 años (4 semestres).
 Modalidad a distancia: los aprendizajes se realizan mediante actividades
 autogestivas, reforzadas con sesiones de videoconferencia en tiempo real.
@@ -35,46 +20,30 @@ programa estará limitado a un cupo máximo, determinado por la capacidad
 académica y operativa de cada generación.
 Nota:
 Los programas de posgrados exigen a su alumnado el
-
-=== CHUNK 4 ===
 compromiso para concluir su trayectoria escolar y
 graduarse en los tiempos establecidos.
 
-=== CHUNK 5 ===
---- Página 3 ---
 2. REQUISITOS DE ADMISIÓN
 Para iniciar con el proceso de admisión, es necesario que las personas aspirantes
 cumplan con los siguientes requisitos:
 2.1 RCeoqnustiasnictioa sd e gpaernticeipraacilóen sa:l finalizar el curso
 Fotografía rectangular, tamaño pasaporte, de frente, vestimenta formal y
-Acceso a materiales y ejercicios prácticos
 reciente, a color con fondo blanco, (no es necesario que sea en estudio
 fotográfico), en formato PNG cuyo tamaño no sobrepase los 4 MB. No se
-
-=== CHUNK 6 ===
 aceptan “selfies”, ni recortes de fotografías de título o certificado.
-Desarrollo de habilidades críticas para proyectos reales
 Acta de nacimiento o Carta de naturalización.
 Identificación oficial: credencial del INE o pasaporte vigente.
 Clave Única de Registro de Población (CURP).
 Comprobante de domicilio (agua, luz, teléfono), no mayor a tres meses.
 Cédula profesional.
-Los ogr mas e Técn Supe Un e it e TEC o de
 Título profesional, o en su caso, Acta de Examen de Grado del estudio de nivel
-
-=== CHUNK 7 ===
-nve gación e In c en T a fo ón mun n (en
 superior.
-ela te “INFOTE , tie opó form pr ona i de
-qu nes han co uido d ivel io s
 Certificado o constancia de estudios que indique el promedio exacto de
 calificaciones de las asignaturas cursadas.
 Currículum Vitae Único (CVU) de la SECIHTI. En caso de no contar con él,
 registrarse en línea y descargarlo desde este sitio.
 Cédula de identificación fiscal, no mayor a tres meses.
 Estudio socioeconómico debidamente requisitado; el formato puede ser
-
-=== CHUNK 8 ===
 descargado en la siguiente liga:
 https://posgrados.infotec.mx/formatos/descargar/estudio_socioeconomico
 Comprobante de conocimiento del idioma inglés, con un mínimo de 60 puntos
@@ -82,93 +51,58 @@ en TOEFL iBT, 450 en TOEFL ITP, 4 en IELTS o 550 en TOEIC, o, en su defecto,
 carta compromiso para entregar el comprobante de conocimiento del idioma
 inglés durante el primer año del posgrado. Personas que no tengan alguno de
 los comprobantes de conocimiento del idioma inglés, pero que hayan
-
-=== CHUNK 9 ===
 realizado estudios de grado o posgrado en el extranjero en dicho idioma,
 podrán acreditar este requisito presentando el documento oficial que se les
 haya otorgado.
 
-=== CHUNK 10 ===
---- Página 4 ---
 2.1.1 Personas de nacionalidad distinta a la mexicana
 que vivan en México:
 Acta o certificado de nacimiento.
-Constancia de participación al finalizar el curso
 Documento probatorio que acredite la estancia legal en el país. Se debe
 entregar al momento de la inscripción, una vez que han sido admitidas por la
-Acceso a materiales y ejercicios prácticos
 institución.
-Desarrollo de habilidades críticas para proyectos reales
-Título o diploma profesional.
-
-=== CHUNK 11 ===
 Título o diploma profesional.
 2.1.2 Personas con estudios en el extranjero:
 Certificado de estudios con equivalencia de calificaciones.
 Revalidación de estudios de tipo superior ante la Secretaría de Educación
 Pública (en trámite o finalizada).
-Los ogr mas e Técn Supe Un e it e TEC o de
 Para el Título o Acta de Grado, en caso de haber realizado estudios en el
-nve gación e In c en T a fo ón mun n (en
 extranjero, presentar los documentos apostillados o revalidación de estudios
-
-=== CHUNK 12 ===
-ela te “INFOTE , tie opó form pr ona i de
 de tipo superior de la Secretaría de Educación Pública.
-qu nes han co uido d ivel io s
 Nota:
 Los documentos deben ser perfectamente legibles y con la orientación
 correcta y por ambos lados, incluso si el reverso no contiene texto o
 imagen alguna. Solo se aceptan archivos en formato PDF, PNG, y JPG, con
 un tamaño máximo de 4 MB (cuatro megabytes).
 Para continuar con el proceso de admisión es indispensable contar con la
-
-=== CHUNK 13 ===
 documentación completa dentro del plazo establecido en el punto 4 de
 esta convocatoria.
 2.2 Requisitos específicos para el ingreso al programa
 Maestría en Ciencia de Datos e Información (MCDI):
 
-=== CHUNK 14 ===
---- Página 5 ---
 Aprobar el curso propedéutico con una calificación mínima de 8.0, mismo
 que representa un porcentaje de 30% para la ponderación final.
 Aprobar el examen de admisión con una calificación mínima de 8.0, mismo
 que representa un porcentaje de 40% para la ponderación final.
-Constancia de participación al finalizar el curso
 Presentar y obtener opinión favorable en las dos entrevistas, mismas que
 representan en conjunto un porcentaje de 30% para la ponderación final.
-
-=== CHUNK 15 ===
-Acceso a materiales y ejercicios prácticos
 Será obligatorio que, además de aprobar los requisitos específicos, la persona aspirante
 obtengaD uens paorrrocellnot adjee hfainbailli dmaíndiemso c dríeti c7a0s% peanr aco pnrjounyetoc.t os reales
 El límite de admisión será de hasta 30 personas, el cual podrá modificarse mediante
 acuerdo del CAB y de acuerdo con la disponibilidad presupuestal.
 3. . PROCESO DE ADMISIÓN
 3.1 En general
-
-=== CHUNK 16 ===
-3. . PROCESO DE ADMISIÓN
-3.1 En general
 3.1.1 Realizar la solicitud de admisión en el Sistema Integral de Gestión
-Los ogr mas e Técn Supe Un e it e TEC o de
 Académica (SIGA).
-nve gación e In c en T a fo ón mun n (en
 ela te3 “.I1N.2F OEnTvEi a r ,la t ideo cument ació on pmóe ncion afdoar mde l puntop r2 .1. ona i de
-qu nes han co uido d ivel io s
 3.2 Para el programa:
 3.2.1 Aprobar el curso propedéutico y el examen de selección.
-
-=== CHUNK 17 ===
 Es importante señalar que la calificación definitiva será enviada por correo
 electrónico a través de los medios institucionales designados para ello. La
 información asentada en Aula Virtual es meramente informativa/de referencia.
 33.2.2 Obtener opinión favorable en las dos entrevistas.
 Es necesario presentarse a las entrevistas en la fecha y horario señalados por
 INFOTEC. Se aceptarán máximo dos reprogramaciones por parte de la
-
-=== CHUNK 18 ===
 persona aspirante, previo aviso por correo electrónico a la Unidad de
 Posgrados, al correo electrónico unidaddeposgrados@infotec.mx
 En caso de que el INFOTEC realice alguna reprogramación, ésta no será
@@ -176,28 +110,13 @@ tomada en cuenta dentro de las dos reprogramaciones a las que tiene
 derecho la persona aspirante.
 3.2.3 Recibir por correo electrónico el dictamen de admisión, el cual
 especificará el resultado como persona “aceptada” o “no aceptada” (revisar
-
-=== CHUNK 19 ===
 bandeja de entrada y correo no deseado). El resultado es inapelable, de
 acuerdo con lo establecido en el artículo 16 del Reglamento de Admisión y
 Becas.
 
-=== CHUNK 20 ===
---- Página 6 ---
 4. CALENDARIO DE ACTIVIDADES
 PROCESO DE ADMISIÓN PARA LA CONVOCATORIA 2026-2
-Constancia de participación al finalizar el curso
 Maestría en Ciencia de Datos e Información (MCDI):
-Acceso a materiales y ejercicios prácticos
-Desarrollo de habilidades críticas para proyectos reales
-Los ogr mas e Técn Supe Un e it e TEC o de
-nve gación e In c en T a fo ón mun n (en
-ela te “INFOTE , tie opó form pr ona i de
-qu nes han co uido d ivel io s
-5. COSTOS
-
-=== CHUNK 21 ===
-qu nes han co uido d ivel io s
 5. COSTOS
 INFOTEC no solicita cobro alguno por conceptos de
 inscripción, reinscripción, cuota de recuperación por ciclo
@@ -209,30 +128,18 @@ pesos 00/100 M.N.)
 No quedan exentos los costos relacionados con trámites y servicios escolares dentro de
 los posgrados INFOTEC. Los montos pagados no son reembolsables.
 
-=== CHUNK 22 ===
---- Página 7 ---
 6. MOTIVOS PARA ANULAR SOLICITUDES
 CoDnosctuamnceinat adcei ópna rqtiuceip saec ipórne sael nfitnea ilnizcaorm epl lceutars, oa lterada, o recibida de forma
 extemporánea de acuerdo con las fechas establecidas en la presente
 convocatoria.
-Acceso a materiales y ejercicios prácticos
 DIensfaorrrmoallcoi ódne qhuaeb inliod aedsetés cdreítbiicdaasm peanrtae pcraopyteucrtaodsa ree ailnetse grada en el Sistema
 Integral de Gestión Académica (SIGA) de INFOTEC a la fecha de cierre de la
-
-=== CHUNK 23 ===
 presente convocatoria, y/o que la solicitud no señale el estatus
 “Documentación validada”.
 El estatus de la solicitud puede visualizarse en el siguiente enlace:
 https://posgrados.infotec.mx/portal/convocatoria/consulta_estado_solicitud
 Cualquier otro no previsto en el presente que entre en conflicto con la
 normativa aplicable de INFOTEC.
-Los ogr mas e Técn Supe Un e it e TEC o de
-nve gación e In c en T a fo ón mun n (en
-ela te “INFOTE , tie opó form pr ona i de
-qu nes han co uido d ivel io s
-
-=== CHUNK 24 ===
-qu nes han co uido d ivel io s
 7. DETALLE DE CONVOCATORIA Y PROGRAMAS DE POSGRADO
 Esta convocatoria y la información de los posgrados se publican en el sitio
 Web de INFOTEC:
@@ -241,8 +148,6 @@ Maestría en Ciencia de Datos e Información (MCDI): infotec.mx/MCDI
 Los casos no previstos en esta Convocatoria serán resueltos por el Comité de
 Admisión y Becas de INFOTEC.
 
-=== CHUNK 25 ===
---- Página 8 ---
 Má´s información y registro en:
 Regístrate aquí para recibir recordatorios de fechas clave y sesiones
 informativas de posgrados, así como actividades generales de formación y
@@ -252,9 +157,6 @@ Sede Aguascalientes
 Sede Ciudad de México
 Avenida San Fernando 37, Col. Toriello Guerra, Circuito Tecnopolo Sur 112
 Parque Industrial Tecnopolo Pocitos II
-C.P. 14050, Tlalpan, Ciudad de México.
-
-=== CHUNK 26 ===
 C.P. 14050, Tlalpan, Ciudad de México.
 C. P. 20326, Aguascalientes Ags.
 
