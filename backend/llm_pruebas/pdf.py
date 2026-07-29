@@ -6,7 +6,7 @@ def limpiar_texto(texto):
     if not texto:
         return ""
     
-    # Lista de frases de diseño/publicitarias que se cruzan en el PDF
+    # Lista de frases de diseño/publicitarias que se cruzan en el PDF y hacen que se junten
     frases_basura = [
         r'Constancia de participación al finalizar el curso',
         r'Acceso a materiales y ejercicios prácticos',
@@ -17,7 +17,7 @@ def limpiar_texto(texto):
         r'qu nes han co uido d ivel io s'
     ]
     
-    # Eliminar las frases del margen
+    # Eliminar las frases del margen para limpiar el texto 
     for frase in frases_basura:
         texto = re.sub(frase, '', texto, flags=re.IGNORECASE)
     
@@ -34,10 +34,10 @@ def extraer_texto_pdf(ruta_pdf):
             texto_crudo = pagina.extract_text()
             
             if texto_crudo:
-                # 1. Limpiamos el texto antes de sumarlo
+                # 1. Limpiamos el texto 
                 texto_limpio = limpiar_texto(texto_crudo)
                 
-                # 2. Ya NO inyectamos el "--- Página X ---" para no confundir al RAG
+                
                 texto_completo += texto_limpio + "\n\n"
             else:
                 print(f"Aviso: la página {numero_pagina} no tiene texto extraíble")
@@ -53,7 +53,7 @@ if __name__ == "__main__":
     print("\n--- Primeros 500 caracteres ---\n")
     print(texto[:500])
     
-    # Al guardarlo, este txt estará listo para tu text_splitter
+    # Al guardarlo, este txt estará listo para el embedding y chunking en el siguiente paso
     with open("../Documentos/chunks.txt", "w", encoding="utf-8") as f:
         f.write(texto)
     print("\nTexto guardado en Documentos/chunks.txt")
