@@ -38,10 +38,19 @@ export class App {
     this.mensajes.push({ texto, emisor: 'usuario' });
     this.mensajeUsuario = '';
 
-    this.http.post<any>('http://127.0.0.1:8000/api/chatbot/', { mensaje: texto })
+    // OJO: el campo que espera Django es "pregunta", no "mensaje"
+    this.http.post<any>('http://127.0.0.1:8000/api/preguntar/', { pregunta: texto })
       .subscribe({
         next: (respuesta) => {
-          this.mensajes.push({ texto: respuesta.mensaje, emisor: 'bot' });
+          // Por ahora Django regresa una lista de chunks (contexto_encontrado),
+          // no una respuesta ya redactada. Mostramos el primero como respuesta provisional.
+          const contexto = respuesta.contexto_encontrado;
+
+          if (contexto && contexto.length > 0) {
+            this.mensajes.push({ texto: contexto[0], emisor: 'bot' });
+          } else {
+            this.mensajes.push({ texto: 'No encontré información sobre eso.', emisor: 'bot' });
+          }
         },
         error: (err) => {
           console.error('Error al conectar con Django', err);
