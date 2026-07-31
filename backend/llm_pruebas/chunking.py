@@ -1,5 +1,6 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
+
 def dividir_en_chunks(texto, tamano_chunk=500, traslape=50):
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=tamano_chunk,
@@ -11,8 +12,10 @@ def dividir_en_chunks(texto, tamano_chunk=500, traslape=50):
 
 
 if __name__ == "__main__":
-    # Leemos el texto que ya extrajimos en el paso 1
-    with open("../Documentos/convocatoria_texto.txt", "r", encoding="utf-8") as f:
+    ruta_chunks = "../Documentos/chunks.txt"
+
+    # Leemos el texto ya limpio (el que generó extraer_texto_final.py)
+    with open(ruta_chunks, "r", encoding="utf-8") as f:
         texto = f.read()
 
     chunks = dividir_en_chunks(texto)
@@ -23,11 +26,11 @@ if __name__ == "__main__":
     print("\n--- Ejemplo: segundo chunk ---\n")
     print(chunks[1])
 
-    # Guardamos todos los chunks en un archivo para revisarlos
-    with open("../Documentos/chunks.txt", "w", encoding="utf-8") as f:
+    # Sobrescribimos el mismo chunks.txt, ahora ya dividido y numerado
+    with open(ruta_chunks, "w", encoding="utf-8") as f:
         for i, chunk in enumerate(chunks):
             f.write(f"=== CHUNK {i} ===\n")
             f.write(chunk)
             f.write("\n\n")
 
-    print("\nChunks guardados en Documentos/chunks.txt")
+    print(f"\nChunks guardados en {ruta_chunks}")
