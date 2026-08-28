@@ -46,7 +46,7 @@ def invertir_view(request):
 
 
 # ============================================================
-# NUEVO: Vista de recuperación con ChromaDB (RAG)
+#  recuperación con ChromaDB (RAG)
 # ============================================================
 
 # Cargamos el modelo UNA sola vez cuando arranca el servidor,

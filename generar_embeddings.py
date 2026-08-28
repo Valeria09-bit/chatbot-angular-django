@@ -37,7 +37,7 @@ def generar_embeddings(chunks: list[str]):
 
 
 # ------------------------------------------------------------------
-# 3. Guardar en ChromaDB (persistente en disco)
+# 3. Guardar en ChromaDB 
 # ------------------------------------------------------------------
 def guardar_en_chroma(chunks: list[str], embeddings, ruta_db="./chroma_db"):
     client = chromadb.PersistentClient(path=ruta_db)
