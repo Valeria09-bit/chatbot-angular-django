@@ -1,5 +1,5 @@
 """
-RAG completo: Chroma (embeddings persistidos) + Qwen2.5-1.5B-Instruct
+RAG completo: Chroma (embeddings persistidos) + MODELOS LLM a provar 
 ----------------------------------------------------------------------
 Este script:
 1. Se conecta a la base de Chroma.
@@ -13,9 +13,14 @@ Este script:
 # ============ CONFIGURACIÓN ============
 CHROMA_PATH = "./chroma_db"                 # carpeta donde persististe Chroma
 COLLECTION_NAME = "convocatoria_mcdi"     # nombre de tu colección en Chroma
-EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2" # el mismo que usaste al indexar
-LLM_MODEL = "Qwen/Qwen2.5-1.5B-Instruct"    #modelo elegido para generar respuestas
+EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2" 
+LLM_MODEL =  "Qwen/Qwen2.5-1.5B-Instruct"   #modelo elegido para generar respuestas(aqui se puede cambiar por cada modelo a probar en la seccion de pruebas)
 N_RESULTS = 4                             # cuántos chunks recuperar por pregunta
+# Modelos LLM probados:
+# 1. Qwen/Qwen2.5-0.5B-Instruct
+# 2. SmolLM2-1.7B
+# 3. Qwen/Qwen2.5-1.5B
+# 4. Qwen/Qwen2.5-3B
 # =======================================================
 
 import time

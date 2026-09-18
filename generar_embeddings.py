@@ -1,19 +1,11 @@
-"""
-Script: generar_embeddings.py
-Objetivo: leer chunks.txt, generar embeddings y guardarlos en ChromaDB
-para el chatbot RAG de INFOTEC (MCDI).
 
-Instalar dependencias (dentro del venv 'backend'):
-    pip install sentence-transformers chromadb
-"""
 
 import re
 import chromadb
 from sentence_transformers import SentenceTransformer
 
-# ------------------------------------------------------------------
 # 1. Leer y separar los chunks del archivo chunks.txt
-# ------------------------------------------------------------------
+
 def leer_chunks(ruta_archivo: str) -> list[str]:
     with open(ruta_archivo, "r", encoding="utf-8") as f:
         contenido = f.read()
@@ -25,9 +17,8 @@ def leer_chunks(ruta_archivo: str) -> list[str]:
     return chunks
 
 
-# ------------------------------------------------------------------
 # 2. Generar embeddings con un modelo multilingüe
-# ------------------------------------------------------------------
+
 def generar_embeddings(chunks: list[str]):
     modelo = SentenceTransformer(
         "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
@@ -36,9 +27,9 @@ def generar_embeddings(chunks: list[str]):
     return embeddings, modelo
 
 
-# ------------------------------------------------------------------
+
 # 3. Guardar en ChromaDB 
-# ------------------------------------------------------------------
+
 def guardar_en_chroma(chunks: list[str], embeddings, ruta_db="./chroma_db"):
     client = chromadb.PersistentClient(path=ruta_db)
 
@@ -59,9 +50,8 @@ def guardar_en_chroma(chunks: list[str], embeddings, ruta_db="./chroma_db"):
     return coleccion
 
 
-# ------------------------------------------------------------------
 # 4. Función de prueba: recuperar los chunks más relevantes
-# ------------------------------------------------------------------
+
 def recuperar_contexto(pregunta: str, modelo, ruta_db="./chroma_db", n_resultados=3):
     client = chromadb.PersistentClient(path=ruta_db)
     coleccion = client.get_collection("convocatoria_mcdi")
@@ -76,12 +66,10 @@ def recuperar_contexto(pregunta: str, modelo, ruta_db="./chroma_db", n_resultado
     return resultados["documents"][0]
 
 
-# ------------------------------------------------------------------
-# MAIN
-# ------------------------------------------------------------------
-if __name__ == "__main__":
-    RUTA_CHUNKS = "chunks.txt"  # ajusta la ruta según dónde lo tengas
 
+
+if __name__ == "__main__":
+    RUTA_CHUNKS = "chunks.txt"  # ajusta la ruta según dónde este
     print("Leyendo chunks...")
     chunks = leer_chunks(RUTA_CHUNKS)
     print(f"Se encontraron {len(chunks)} chunks.")

@@ -15,6 +15,13 @@
       [ngClass]="msg.emisor === 'usuario' ? 'mensaje-usuario' : 'mensaje-bot'">
       {{ msg.texto }}
     </div>
+
+    <!-- NUEVO: indicador de "escribiendo..." mientras se espera la respuesta del bot -->
+    <div class="mensaje mensaje-bot escribiendo" *ngIf="escribiendo">
+      <span class="punto"></span>
+      <span class="punto"></span>
+      <span class="punto"></span>
+    </div>
   </div>
 
   <div class="chat-input">

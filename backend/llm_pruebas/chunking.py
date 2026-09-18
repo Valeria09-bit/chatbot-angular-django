@@ -2,9 +2,9 @@ import re
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
-# ------------------------------------------------------------
+
 # 1. Separar el documento por secciones
-# ------------------------------------------------------------
+
 def separar_por_secciones(texto):
     """
     Divide el documento utilizando encabezados numerados,
@@ -32,9 +32,9 @@ def separar_por_secciones(texto):
     return secciones
 
 
-# ------------------------------------------------------------
+
 # 2. Dividir las secciones demasiado grandes
-# ------------------------------------------------------------
+
 def dividir_texto_en_chunks(texto, tamano=1200, traslape=100):
 
     secciones = separar_por_secciones(texto)
@@ -67,9 +67,8 @@ def dividir_texto_en_chunks(texto, tamano=1200, traslape=100):
     return chunks_finales
 
 
-# ------------------------------------------------------------
-# 3. Programa principal
-# ------------------------------------------------------------
+# 3. Principal
+
 if __name__ == "__main__":
 
     # Leer la extracción del PDF
