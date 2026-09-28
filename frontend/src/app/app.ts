@@ -40,7 +40,7 @@ export class App {
     this.mensajes.push({ texto, emisor: 'usuario' });
     this.mensajeUsuario = '';
     this.escribiendo = true;
-    this.cdRef.detectChanges();   // refresca la vista para mostrar el indicador de inmediato
+    this.cdRef.detectChanges();   
 
     this.http.post<any>('http://127.0.0.1:8000/api/preguntar/', { pregunta: texto })
       .subscribe({
@@ -53,7 +53,7 @@ export class App {
           this.escribiendo = false;
           console.error('Error al conectar con Django', err);
           this.mensajes.push({ texto: 'Ocurrió un error al conectar con el servidor', emisor: 'bot' });
-          this.cdRef.detectChanges();   //  refresca la vista también si hay error
+          this.cdRef.detectChanges();   //  refresca la vista 
         }
       });
   }

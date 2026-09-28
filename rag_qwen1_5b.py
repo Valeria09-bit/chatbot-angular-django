@@ -1,11 +1,9 @@
 """
-RAG completo: Chroma (embeddings persistidos) + MODELOS LLM a provar 
-----------------------------------------------------------------------
-Este script:
+
 1. Se conecta a la base de Chroma.
 2. Recupera los chunks más relevantes para la pregunta del usuario.
 3. Arma un prompt con ese contexto.
-4. Se lo pasa al modelo escogido del cual es: Qwen2.5-1.5B-Instruct para generar la respuesta.
+4. Se lo pasa al modelo de Qwen2.5-1.5B-Instruct para generar la respuesta.
 
 
 """

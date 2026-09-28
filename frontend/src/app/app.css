@@ -1,3 +1,4 @@
+/* ===== Burbuja flotante ===== */
 .chat-bubble {
   position: fixed;
   bottom: 20px;
@@ -22,21 +23,29 @@
   object-fit: contain;
 }
 
+/* ===== Contenedor del chat ===== */
 .chat-container {
   position: fixed;
   bottom: 90px;
   right: 20px;
   width: 500px;
+  max-width: calc(100vw - 40px);          /* RESPONSIVO: nunca más ancho que la pantalla */
+  height: 500px;                           /* RESPONSIVO: antes la altura dependía de .chat-window */
+  max-height: calc(100dvh - 110px);        /* RESPONSIVO: nunca más alto que la pantalla */
+  display: flex;                           /* RESPONSIVO: header + mensajes + input en columna */
+  flex-direction: column;
   border: 1px solid #ccc;
   border-radius: 8px;
   overflow: hidden;
   font-family: Arial, sans-serif;
   box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-  z-index: 999;
+  z-index: 1001;                           /* por encima de la burbuja (en celular la cubre) */
   background: white;
 }
 
+/* ===== Encabezado ===== */
 .chat-header {
+  flex: 0 0 auto;
   background: #9d224a;
   color: white;
   padding: 12px 16px;
@@ -52,10 +61,13 @@
   color: white;
   cursor: pointer;
   font-size: 16px;
+  padding: 4px 10px;                       /* área de toque más cómoda */
 }
 
+/* ===== Zona de mensajes (la única con scroll) ===== */
 .chat-window {
-  height: 380px;
+  flex: 1 1 auto;                          /* RESPONSIVO: ocupa el espacio sobrante */
+  min-height: 0;                           /* necesario para que el scroll funcione en flex */
   overflow-y: auto;
   padding: 12px;
   display: flex;
@@ -69,6 +81,7 @@
   margin: 6px 0;
   border-radius: 12px;
   word-wrap: break-word;
+  overflow-wrap: anywhere;                 /* evita desbordes con URLs o palabras largas */
 }
 
 .mensaje-bot {
@@ -85,19 +98,24 @@
   border-bottom-right-radius: 2px;
 }
 
+/* ===== Input ===== */
 .chat-input {
+  flex: 0 0 auto;
   display: flex;
   border-top: 1px solid #e2e2e2;
 }
 
 .chat-input input {
   flex: 1;
+  min-width: 0;                            /* evita que empuje el botón fuera en pantallas chicas */
   border: none;
   padding: 10px;
   outline: none;
+  font-size: 16px;                         /* evita el zoom automático en iPhone */
 }
 
 .chat-input button {
+  flex: 0 0 auto;
   background: #4d0808;
   color: white;
   border: none;
@@ -108,7 +126,8 @@
 .chat-input button:hover {
   background: #1a252f;
 }
-/* NUEVO: animación de puntos para el indicador de "escribiendo..." */
+
+/* ===== Indicador "escribiendo..." ===== */
 .escribiendo {
   display: flex;
   gap: 4px;
@@ -131,4 +150,46 @@
 @keyframes rebote {
   0%, 80%, 100% { transform: scale(0.6); opacity: 0.4; }
   40% { transform: scale(1); opacity: 1; }
+}
+
+/* ===== Tablet ===== */
+@media (max-width: 768px) {
+  .chat-container {
+    width: 380px;
+  }
+
+  .mensaje {
+    max-width: 80%;
+  }
+}
+
+/* ===== Celular: chat a pantalla completa ===== */
+@media (max-width: 600px) {
+  .chat-container {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+    height: 100dvh;
+    max-height: 100dvh;
+    border: none;
+    border-radius: 0;
+  }
+
+  .chat-bubble {
+    width: 56px;
+    height: 56px;
+    bottom: 16px;
+    right: 16px;
+  }
+
+  .mensaje {
+    max-width: 88%;
+  }
+
+  .chat-input button {
+    padding: 0 20px;
+  }
 }
