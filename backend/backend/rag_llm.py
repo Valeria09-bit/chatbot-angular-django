@@ -7,7 +7,7 @@ import torch
 CHROMA_PATH = "./chroma_db"
 COLLECTION_NAME = "convocatoria_mcdi"
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
-LLM_MODEL = "Qwen/Qwen2.5-1.5B-Instruct"
+LLM_MODEL = "Qwen/Qwen2.5-3B-Instruct"
 N_RESULTS = 4
 
 print("Cargando modelo de embeddings...")
@@ -36,8 +36,12 @@ def recuperar_contexto(pregunta, n_results=N_RESULTS):
 def construir_prompt(pregunta, chunks):
     contexto = "\n\n".join(chunks)
     return f"""Eres un asistente que responde dudas sobre la Maestría en Ciencia de Datos
-e Información (MCDI) de INFOTEC, usando ÚNICAMENTE la siguiente información oficial.
-Si la respuesta no está en el contexto, di que no cuentas con esa información.
+    e Información (MCDI) de INFOTEC, usando ÚNICAMENTE la siguiente información oficial.
+    1. Lee cuidadosamente toda la INFORMACIÓN PROPORCIONADA.
+    2. Encuentra la respuesta a la pregunta dentro de esa información.
+    3. Redacta tu respuesta en español, de forma clara y directa.
+    4. IMPORTANTÍSIMO: Si la respuesta incluye una lista de elementos (como asignaturas, requisitos, etc.), preséntalos usando viñetas (-) y pon cada elemento en una nueva línea.
+    5. Si la respuesta DEFINITIVAMENTE NO ESTÁ en la información proporcionada, responde exactamente: "No cuento con esa información".
 
 CONTEXTO:
 {contexto}

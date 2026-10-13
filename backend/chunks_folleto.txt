@@ -1,0 +1,90 @@
+=== CHUNK 0 ===
+# **Maestría en Ciencia de** Datos e Información 
+
+## **Objetivo general** 
+
+**La Maestría en Ciencia de Datos e Información (MCDI) es una alternativa de respuesta a una prioridad de la industria y las empresas de nuestro país, ante un mercado creciente que demanda este perfil especializado de profesionales. Para lograrlo, en su conceptualización y diseño participaron especialistas de la industria, la academia y la investigación.** 
+
+La MCDI fue concebida para ser impartida en línea, tomando en consideración que es una maestría con orientación profesional, lo que permite abrir la posibilidad a los aspirantes interesados en cursar un posgrado y poder combinar trabajo con estudio. Para ello, se atiende el proceso de enseñanza-aprendizaje en un espacio digital que denominamos Aula virtual. 
+
+## **Objetivos particulares** 
+
+La MCDI, mediante sus Líneas de Generación y Aplicación de Conocimiento: Inteligencia computacional y Analítica de datos e información, aborda los siguientes objetivos específicos: 
+
+**Implementar tecnologías de información y cómputo de alto desempeño** para el almacenamiento, recuperación, procesamiento, análisis inteligente y visualización de información.
+
+=== CHUNK 1 ===
+- Analizar y **diseñar las metodologías analíticas** con la finalidad de obtener información valiosa y útil en diversos campos de aplicación. 
+
+- **Desarrollar modelos** para generar servicios de alto valor agregado que incorporen el conocimiento y las capacidades analíticas desarrolladas. 
+
+- **Proveer métodos de evaluación** que provean evidencia cuantitativa de la calidad de los datos y los modelos generados a partir de ellos. 
+
+- **Proponer métodos** basados en aprendizaje computacional para resolver problemas de análisis de datos. 
+
+- **Evaluar los resultados** que obtienen los métodos de aprendizaje computacional. 
+
+- **Comparar el desempeño de los métodos** propuestos contra los resultados de otros métodos reportados en el estado del arte. 
+
+Convocatoria Posgrados                               2025 _Maestría en Ciencia de Datos e Información_ 
+
+### **Perfil de ingreso** 
+
+La Maestría en Ciencia de Datos e Información está dirigida a:
+
+=== CHUNK 2 ===
+### **Perfil de ingreso** 
+
+La Maestría en Ciencia de Datos e Información está dirigida a: 
+
+**Profesionales** que se encuentran en el campo profesional que buscan actualización para resolver y mejorar su acercamiento a las problemáticas de _grandes volúmenes de datos_ en campos como el sector financiero, Biología, Bioinformática, Salud, Demografía, Ciudades inteligentes, Documentación y bibliotecas digitales, Inteligencia pública y tecnológica, Geografía, Mercadotecnia y toma de decisiones en Políticas públicas. 
+
+**Egresados** de licenciaturas que tienen una base matemática y necesidades de _aplicación de Ciencia de datos_ como son: Física, Matemáticas, Ciencias de la Tierra, Actuaría, Ciencias de la computación, Ingenierías, Biología y Ciencias de la salud, Economía y Finanzas. 
+
+## **Perfil de egreso** 
+
+Al finalizar el posgrado el alumno tendrá capacidad para: 
+
+- Desarrollar soluciones computacionales eficientes, a partir de modelado matemático y algoritmos de aprendizaje computacional, para justificar la toma de decisiones basada en conocimiento extraído de los datos considerando sus implicaciones éticas.
+
+=== CHUNK 3 ===
+Analizar datos, a partir de la aplicación de técnicas provenientes de diversas áreas del conocimiento como: matemáticas y ciencias computacionales, para una mejor comprensión de los fenómenos estudiados. Esto permitirá prevenir o solucionar problemas con una actitud crítica y de respeto. 
+
+- Emplear y desarrollar técnicas de optimización formal y heurística, para la búsqueda de soluciones competitivas, considerando distintos escenarios multidisciplinares _(en el contexto organizacional y social)._ 
+
+- Desarrollar habilidades de investigación, redacción y argumentación de textos científicos y técnicos, basándose en el método científico, con la finalidad de comunicar los proyectos desarrollados. 
+
+Convocatoria Posgrados                               2025 _Maestría en Ciencia de Datos e Información_ 
+
+## **Plan de estudios MCDI**
+
+=== CHUNK 4 ===
+## **Plan de estudios MCDI** 
+
+
+
+<!-- Start of picture text -->
+1er semestre 2° semestre 3er semestre 4° semestre<br>Manejo y Procesamiento<br>Aprendizaje<br>procesamiento de de lenguaje<br>supervisado<br>la información natural<br>5.5 5.5 5.5<br>Optativa II<br>Procesamiento<br>Matemáticas Optimización digital de<br>imágenes<br>5.5 5.5 5.5 5.56<br>Aprendizaje<br>Estadística no supervisado Optativa I<br>y visualización<br>5.5 5.5 5.56<br>Proyecto<br>terminal<br>Análisis de Seminario Seminario<br>algoritmos de proyecto I de proyecto II<br>5.5 5.63 5.63 5.63<br><!-- End of picture text -->
+
+#### Asignaturas optativas 
+
+- Recuperación de información. 
+
+- Cómputo de alto rendimiento. 
+
+- Análisis de redes biológicas. 
+
+- Modelación matemática avanzada. 
+
+- Tópicos selectos de ciencias de datos. 
+
+- Análisis de series temporales. 
+
+### **Informes e inscripción** unidaddeposgrados@infotec.mx 
+
+55 5624 2800 
+
+Extensiones 2354   |   2352 
+
+Tlalpan | Ciudad de México Av. San Fernando 37  |  Col. Toriello Guerra
+

@@ -88,6 +88,7 @@
   background: #bb8b2c;
   color: #000;
   border-bottom-left-radius: 2px;
+  white-space: pre-wrap;
 }
 
 .mensaje-usuario {

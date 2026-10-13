@@ -3,18 +3,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
 def separar_por_secciones(texto):
-    """
-    Divide el documento utilizando encabezados numerados,
-    por ejemplo:
-
-    1. ...
-    2. ...
-    3. ...
-    4. CALENDARIO DE ACTIVIDADES
-    5. COSTOS
-    6. MOTIVOS PARA ANULAR SOLICITUDES
-    """
-
+    
     patron = r"(?m)(?=^\s*\d+\.\s+)"
 
     secciones = re.split(patron, texto)
@@ -61,12 +50,10 @@ def dividir_texto_en_chunks(texto, tamano=1200, traslape=100):
     return chunks_finales
 
 
-# 3. Principal
-
 if __name__ == "__main__":
 
-    # Leer la extracción del PDF
-    with open("../Documentos/convocatoria.txt", "r", encoding="utf-8") as f:
+    # Leer la extracción del folleto
+    with open("../Documentos/folleto.txt", "r", encoding="utf-8") as f:
         texto_puro = f.read()
 
     # Generar chunks
@@ -74,8 +61,8 @@ if __name__ == "__main__":
 
     print(f"Total de chunks generados: {len(chunks)}")
 
-    # Guardar/reemplazar chunks.txt
-    with open("../chunks.txt", "w", encoding="utf-8") as f:
+    # Guardar el archivo de folleto para no mezclarla con la convocatoria
+    with open("../chunks_folleto.txt", "w", encoding="utf-8") as f:
 
         for i, chunk in enumerate(chunks):
 
@@ -83,7 +70,7 @@ if __name__ == "__main__":
             f.write(chunk.strip())
             f.write("\n\n")
 
-    print("chunks.txt actualizado correctamente.")
+    print("chunks_folleto.txt creado correctamente.")
 
     # Mostrar todos los chunks
     for i, chunk in enumerate(chunks):

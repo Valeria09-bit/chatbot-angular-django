@@ -12,7 +12,7 @@
 CHROMA_PATH = "./chroma_db"                 # carpeta donde persististe Chroma
 COLLECTION_NAME = "convocatoria_mcdi"     # nombre de tu colección en Chroma
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2" 
-LLM_MODEL =  "Qwen/Qwen2.5-1.5B-Instruct"   #modelo elegido para generar respuestas(aqui se puede cambiar por cada modelo a probar en la seccion de pruebas)
+LLM_MODEL =   "Qwen/Qwen2.5-3B-Instruct"  #modelo elegido para generar respuestas(aqui se puede cambiar por cada modelo a probar en la seccion de pruebas)
 N_RESULTS = 4                             # cuántos chunks recuperar por pregunta
 # Modelos LLM probados:
 # 1. Qwen/Qwen2.5-0.5B-Instruct
@@ -50,8 +50,12 @@ def construir_prompt(pregunta, chunks):
     """Arma el prompt final que se le pasará al LLM, con el contexto recuperado."""
     contexto = "\n\n".join(chunks)
     prompt = f"""Eres un asistente que responde dudas sobre la Maestría en Ciencia de Datos
-e Información (MCDI) de INFOTEC, usando ÚNICAMENTE la siguiente información oficial.
-Si la respuesta no está en el contexto, di que no cuentas con esa información.
+    e Información (MCDI) de INFOTEC, usando ÚNICAMENTE la siguiente información oficial.
+    1. Lee cuidadosamente toda la INFORMACIÓN PROPORCIONADA.
+    2. Encuentra la respuesta a la pregunta dentro de esa información.
+    3. Redacta tu respuesta en español, de forma clara y directa.
+    4. IMPORTANTÍSIMO: Si la respuesta incluye una lista de elementos (como asignaturas, requisitos, etc.), preséntalos usando viñetas (-) y pon cada elemento en una nueva línea.
+    5. Si la respuesta DEFINITIVAMENTE NO ESTÁ en la información proporcionada, responde exactamente: "No cuento con esa información".
 
 CONTEXTO:
 {contexto}

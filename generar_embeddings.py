@@ -1,23 +1,21 @@
-
-
 import re
 import chromadb
 from sentence_transformers import SentenceTransformer
 
-# 1. Leer y separar los chunks del archivo chunks.txt
+# Lee y separa los chunks del archivo chunks.txt
 
 def leer_chunks(ruta_archivo: str) -> list[str]:
     with open(ruta_archivo, "r", encoding="utf-8") as f:
         contenido = f.read()
 
-    # separa por las marcas "=== CHUNK N ==="
+    # separa las marcas " CHUNK N "
     partes = re.split(r"=== CHUNK \d+ ===", contenido)
     # quita espacios y elimina chunks vacíos
     chunks = [p.strip() for p in partes if p.strip()]
     return chunks
 
 
-# 2. Generar embeddings con un modelo multilingüe
+# Genera embeddings con el modelo multilingüe
 
 def generar_embeddings(chunks: list[str]):
     modelo = SentenceTransformer(
@@ -28,9 +26,9 @@ def generar_embeddings(chunks: list[str]):
 
 
 
-# 3. Guardar en ChromaDB 
+#  Guardar en ChromaDB  
 
-def guardar_en_chroma(chunks: list[str], embeddings, ruta_db="./chroma_db"):
+def guardar_en_chroma(chunks: list[str], embeddings, prefijo="chunk", fuente="convocatoria", ruta_db="./chroma_db"):
     client = chromadb.PersistentClient(path=ruta_db)
 
     coleccion = client.get_or_create_collection(
@@ -38,19 +36,23 @@ def guardar_en_chroma(chunks: list[str], embeddings, ruta_db="./chroma_db"):
         metadata={"descripcion": "Chunks de la convocatoria MCDI INFOTEC 2026-2"},
     )
 
-    ids = [f"chunk_{i}" for i in range(len(chunks))]
+    # el prefijo evita que los IDs de un documento choquen 
+    ids = [f"{prefijo}_{i}" for i in range(len(chunks))]
+    # guarda de qué documento viene cada chunk
+    metadatas = [{"fuente": fuente} for _ in chunks]
 
     coleccion.add(
         ids=ids,
         documents=chunks,
         embeddings=embeddings.tolist(),
+        metadatas=metadatas,
     )
 
-    print(f"Se guardaron {len(chunks)} chunks en la colección 'convocatoria_mcdi'.")
+    print(f"Se guardaron {len(chunks)} chunks de '{fuente}' en la colección 'convocatoria_mcdi'.")
     return coleccion
 
 
-# 4. Función de prueba: recuperar los chunks más relevantes
+# Función de prueba: recuperar los chunks más relevantes
 
 def recuperar_contexto(pregunta: str, modelo, ruta_db="./chroma_db", n_resultados=3):
     client = chromadb.PersistentClient(path=ruta_db)
@@ -69,7 +71,7 @@ def recuperar_contexto(pregunta: str, modelo, ruta_db="./chroma_db", n_resultado
 
 
 if __name__ == "__main__":
-    RUTA_CHUNKS = "chunks.txt"  # ajusta la ruta según dónde este
+    RUTA_CHUNKS = "backend/chunks_folleto.txt"  # ajusta la ruta según dónde este
     print("Leyendo chunks...")
     chunks = leer_chunks(RUTA_CHUNKS)
     print(f"Se encontraron {len(chunks)} chunks.")
@@ -78,12 +80,13 @@ if __name__ == "__main__":
     embeddings, modelo = generar_embeddings(chunks)
 
     print("Guardando en ChromaDB...")
-    guardar_en_chroma(chunks, embeddings)
+    guardar_en_chroma(chunks, embeddings, prefijo="folleto", fuente="folleto")
 
     # Prueba rápida
-    pregunta_prueba = "¿Cuánto cuesta el examen de admisión?"
+    pregunta_prueba = "¿Cuáles son las materias optativas de la maestría?"
     contexto = recuperar_contexto(pregunta_prueba, modelo)
-    print("\n--- Prueba de recuperación ---")
-    print(f"Pregunta: {pregunta_prueba}")
-    for i, c in enumerate(contexto, 1):
-        print(f"\nResultado {i}:\n{c[:200]}...")
+
+    print("\n--- RESULTADOS DE LA BÚSQUEDA EN CHROMA ---")
+    for i, chunk in enumerate(contexto):
+        print(f"\n[Resultado {i+1}]:")
+        print(chunk)
