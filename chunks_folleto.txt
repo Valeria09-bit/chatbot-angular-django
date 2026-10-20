@@ -1,0 +1,75 @@
+=== CHUNK 0 ===
+[Folleto MCDI] Maestría en Ciencia de Datos e Información - Objetivo general
+
+La Maestría en Ciencia de Datos e Información (MCDI) es una alternativa de respuesta a una prioridad de la industria y las empresas de nuestro país, ante un mercado creciente que demanda este perfil especializado de profesionales. Para lograrlo, en su conceptualización y diseño participaron especialistas de la industria, la academia y la investigación.
+
+La MCDI fue concebida para ser impartida en línea, tomando en consideración que es una maestría con orientación profesional, lo que permite abrir la posibilidad a los aspirantes interesados en cursar un posgrado y poder combinar trabajo con estudio. Para ello, se atiende el proceso de enseñanza-aprendizaje en un espacio digital que denominamos Aula virtual.
+
+=== CHUNK 1 ===
+[Folleto MCDI] Maestría en Ciencia de Datos e Información - Objetivos particulares
+
+La MCDI, mediante sus Líneas de Generación y Aplicación de Conocimiento: Inteligencia computacional y Analítica de datos e información, aborda los siguientes objetivos específicos:
+
+- Implementar tecnologías de información y cómputo de alto desempeño para el almacenamiento, recuperación, procesamiento, análisis inteligente y visualización de información.
+
+- Analizar y diseñar las metodologías analíticas con la finalidad de obtener información valiosa y útil en diversos campos de aplicación.
+
+- Desarrollar modelos para generar servicios de alto valor agregado que incorporen el conocimiento y las capacidades analíticas desarrolladas.
+
+- Proveer métodos de evaluación que provean evidencia cuantitativa de la calidad de los datos y los modelos generados a partir de ellos.
+
+- Proponer métodos basados en aprendizaje computacional para resolver problemas de análisis de datos.
+
+- Evaluar los resultados que obtienen los métodos de aprendizaje computacional.
+
+- Comparar el desempeño de los métodos propuestos contra los resultados de otros métodos reportados en el estado del arte.
+
+=== CHUNK 2 ===
+[Folleto MCDI] Maestría en Ciencia de Datos e Información - Perfil de ingreso
+
+La Maestría en Ciencia de Datos e Información está dirigida a:
+
+Profesionales que se encuentran en el campo profesional que buscan actualización para resolver y mejorar su acercamiento a las problemáticas de grandes volúmenes de datos en campos como el sector financiero, Biología, Bioinformática, Salud, Demografía, Ciudades inteligentes, Documentación y bibliotecas digitales, Inteligencia pública y tecnológica, Geografía, Mercadotecnia y toma de decisiones en Políticas públicas.
+
+Egresados de licenciaturas que tienen una base matemática y necesidades de aplicación de Ciencia de datos como son: Física, Matemáticas, Ciencias de la Tierra, Actuaría, Ciencias de la computación, Ingenierías, Biología y Ciencias de la salud, Economía y Finanzas.
+
+=== CHUNK 3 ===
+[Folleto MCDI] Maestría en Ciencia de Datos e Información - Perfil de egreso
+
+Al finalizar el posgrado el alumno tendrá capacidad para:
+
+- Desarrollar soluciones computacionales eficientes, a partir de modelado matemático y algoritmos de aprendizaje computacional, para justificar la toma de decisiones basada en conocimiento extraído de los datos considerando sus implicaciones éticas.
+
+- Analizar datos, a partir de la aplicación de técnicas provenientes de diversas áreas del conocimiento como: matemáticas y ciencias computacionales, para una mejor comprensión de los fenómenos estudiados. Esto permitirá prevenir o solucionar problemas con una actitud crítica y de respeto.
+
+- Emplear y desarrollar técnicas de optimización formal y heurística, para la búsqueda de soluciones competitivas, considerando distintos escenarios multidisciplinares (en el contexto organizacional y social).
+
+- Desarrollar habilidades de investigación, redacción y argumentación de textos científicos y técnicos, basándose en el método científico, con la finalidad de comunicar los proyectos desarrollados.
+
+=== CHUNK 4 ===
+[Folleto MCDI] Maestría en Ciencia de Datos e Información - Plan de estudios MCDI
+
+El plan de estudios de la MCDI se cursa en 4 semestres e incluye las siguientes asignaturas: Matemáticas; Estadística y visualización; Manejo y procesamiento de la información; Análisis de algoritmos; Optimización; Aprendizaje supervisado; Aprendizaje no supervisado; Procesamiento de lenguaje natural; Procesamiento digital de imágenes; Seminario de proyecto I; Seminario de proyecto II; Optativa I; Optativa II; y Proyecto terminal.
+
+Asignaturas optativas:
+- Recuperación de información.
+
+- Cómputo de alto rendimiento.
+
+- Análisis de redes biológicas.
+
+- Modelación matemática avanzada.
+
+- Tópicos selectos de ciencias de datos.
+
+- Análisis de series temporales.
+
+=== CHUNK 5 ===
+[Folleto MCDI] Maestría en Ciencia de Datos e Información - Informes e inscripción unidaddeposgrados@infotec.mx
+
+55 5624 2800
+
+Extensiones 2354   |   2352
+
+Tlalpan | Ciudad de México Av. San Fernando 37  |  Col. Toriello Guerra
+

@@ -21,7 +21,7 @@ export class App {
   escribiendo = false;   // controla si se muestra el indicador de "escribiendo..."
 
   mensajes: Mensaje[] = [
-    { texto: '¡Buen día! Soy InfoBot, dime en qué puedo ayudarte', emisor: 'bot' }
+    { texto: '¡Buen día! Soy InfoBot, brindo información sobre la Maestría en Ciencia de Datos e Información (MCDI)', emisor: 'bot' }
   ];
 
   mensajeUsuario: string = '';

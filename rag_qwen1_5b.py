@@ -1,25 +1,15 @@
-"""
-
-1. Se conecta a la base de Chroma.
-2. Recupera los chunks más relevantes para la pregunta del usuario.
-3. Arma un prompt con ese contexto.
-4. Se lo pasa al modelo de Qwen2.5-1.5B-Instruct para generar la respuesta.
 
 
-"""
-
-# ============ CONFIGURACIÓN ============
-CHROMA_PATH = "./chroma_db"                 # carpeta donde persististe Chroma
-COLLECTION_NAME = "convocatoria_mcdi"     # nombre de tu colección en Chroma
+CHROMA_PATH = "./chroma_db"                 # carpeta donde esta Chroma
+COLLECTION_NAME = "convocatoria_mcdi"     # nombre colección en Chroma
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2" 
-LLM_MODEL =   "Qwen/Qwen2.5-3B-Instruct"  #modelo elegido para generar respuestas(aqui se puede cambiar por cada modelo a probar en la seccion de pruebas)
+LLM_MODEL =   "Qwen/Qwen2.5-1.5B-Instruct"  #modelo elegido para generar respuestas(aqui se puede cambiar por cada modelo a probar en la seccion de pruebas)
 N_RESULTS = 4                             # cuántos chunks recuperar por pregunta
 # Modelos LLM probados:
 # 1. Qwen/Qwen2.5-0.5B-Instruct
 # 2. SmolLM2-1.7B
 # 3. Qwen/Qwen2.5-1.5B
 # 4. Qwen/Qwen2.5-3B
-# =======================================================
 
 import time
 import chromadb
@@ -56,6 +46,11 @@ def construir_prompt(pregunta, chunks):
     3. Redacta tu respuesta en español, de forma clara y directa.
     4. IMPORTANTÍSIMO: Si la respuesta incluye una lista de elementos (como asignaturas, requisitos, etc.), preséntalos usando viñetas (-) y pon cada elemento en una nueva línea.
     5. Si la respuesta DEFINITIVAMENTE NO ESTÁ en la información proporcionada, responde exactamente: "No cuento con esa información".
+    6. si el usuario te saluda, responde con un saludo cordial y pregunta cómo puedes ayudarle.
+    7. Cuando el usuario pregunte por "mi perfil", "quién puede ingresar", "a quién va dirigida" o "qué necesito para entrar",
+        se refiere al PERFIL DE INGRESO de la maestría: explícalo con el contexto.
+    8. Nunca pidas datos personales al usuario.
+    9. No uses formato Markdown: sin #, sin ** ni negritas. 
 
 CONTEXTO:
 {contexto}
@@ -100,7 +95,7 @@ def main():
         device_map="auto",
     )
 
-    print("\n=== Listo. Escribe tu pregunta (o 'salir' para terminar) ===\n")
+    print("\n=== Listo. Escribe tu pregunta (o 'salir' para terminal) ===\n")
 
     while True:
         pregunta = input("Pregunta: ").strip()

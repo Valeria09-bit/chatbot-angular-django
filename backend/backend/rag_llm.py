@@ -7,7 +7,7 @@ import torch
 CHROMA_PATH = "./chroma_db"
 COLLECTION_NAME = "convocatoria_mcdi"
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
-LLM_MODEL = "Qwen/Qwen2.5-3B-Instruct"
+LLM_MODEL = "QQwen/Qwen2.5-0.5B-Instruct"
 N_RESULTS = 4
 
 print("Cargando modelo de embeddings...")
