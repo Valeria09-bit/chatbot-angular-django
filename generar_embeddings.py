@@ -86,7 +86,4 @@ if __name__ == "__main__":
     pregunta_prueba = "¿Cuáles son las materias optativas de la maestría?"
     contexto = recuperar_contexto(pregunta_prueba, modelo)
 
-    print("\n--- RESULTADOS DE LA BÚSQUEDA EN CHROMA ---")
-    for i, chunk in enumerate(contexto):
-        print(f"\n[Resultado {i+1}]:")
-        print(chunk)
+    
