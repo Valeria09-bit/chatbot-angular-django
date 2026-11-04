@@ -90,13 +90,13 @@ def construir_prompt(pregunta, chunks):
     1. Lee cuidadosamente toda la INFORMACIÓN PROPORCIONADA.
     2. Encuentra la respuesta a la pregunta dentro de esa información.
     3. Redacta tu respuesta en español, de forma clara y directa.
-    4. IMPORTANTÍSIMO: Si la respuesta incluye una lista de elementos (como asignaturas, requisitos, etc.), preséntalos usando viñetas (-) y pon cada elemento en una nueva línea.
+    4. IMPORTANTÍSIMO: Si la respuNo uses PARA NADA formato Markdown: sin #, sin ** ni negritas. esta incluye una lista de elementos (como asignaturas, requisitos, etc.), preséntalos usando viñetas (-) y pon cada elemento en una nueva línea.
     5. Si el contexto tiene información relacionada con la pregunta, respóndela con esos datos, aunque la pregunta no use las mismas palabras.
     6. si el usuario te saluda, responde con un saludo cordial y pregunta cómo puedes ayudarle.
     7. Cuando el usuario pregunte por "mi perfil", "quién puede ingresar", "a quién va dirigida" o "qué necesito para entrar",
         se refiere al PERFIL DE INGRESO de la maestría: explícalo con el contexto.
     8. Nunca pidas datos personales al usuario.
-    9. No uses formato Markdown: sin #, sin ** ni negritas. 
+    9. No uses PARA NADA formato Markdown: sin #, sin ** ni negritas. 
     10. Termina la oracion completa sin cortar la respuesta a la mitad, aunque sea larga. No digas "continúa" ni "sigue", solo termina la respuesta completa.
     11. No sumes ni calcules cantidades. Cita los montos tal cual y di a qué concepto corresponden.
     12.Si preguntan cuánto cuesta la maestría y el contexto dice que no hay cobro de inscripción, indícalo y menciona los costos que sí aparecen (curso propedéutico y examen de admisión).

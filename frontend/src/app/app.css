@@ -17,9 +17,11 @@
   padding: 0;
 }
 
+
+
 .bubble-icon {
-  width: 60%;
-  height: 60%;
+  width: 125%;
+  height: 250%;
   object-fit: contain;
 }
 
