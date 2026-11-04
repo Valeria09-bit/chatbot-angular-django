@@ -1,0 +1,1361 @@
+=== CHUNK 0 ===
+**REGLAMENTO DE POSGRADOS**
+
+## **Consideraciones**
+
+El presente Reglamento de Posgrados se emite con fundamento en el Contrato de Fideicomiso Número 0641 y sus convenios modificatorios, y de conformidad a los objetivos y facultades establecidas en el Manual de Organización de INFOTEC, vigente para la Dirección Adjunta de Innovación y Conocimiento. Lo anterior, como parte de los fines y actividades de INFOTEC, con lo cual se busca establecer el marco normativo adecuado para el correcto funcionamiento de los programas de posgrado institucionales.
+
+## **Objetivo**
+
+El presente Reglamento de Posgrados tiene como objetivo regular las cuestiones académicas de los programas de posgrado impartidos por INFOTEC, así como su organización y el desarrollo de los estudios.
+
+## **Marco jurídico**
+
+- I. Constitución política de los Estados Unidos Mexicanos.
+
+- II. Ley Orgánica de la Administración Pública Federal.
+
+- III. Ley Federal de las Entidades Paraestatales.
+
+- IV. Ley General de Archivos.
+
+=== CHUNK 1 ===
+- III. Ley Federal de las Entidades Paraestatales.
+
+- IV. Ley General de Archivos.
+
+- V. Ley General de Educación Superior.
+
+- VI. Ley General en Materia de Humanidades, Ciencias, Tecnología e Innovación.
+
+- VII. Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+
+- VIII. Ley General de Transparencia y Acceso a la Información Pública.
+
+- IX. Ley Federal de Transparencia y Acceso a la Información Pública.
+
+- X. Ley Federal de Protección de la Propiedad Industrial.
+
+- XI. Ley Federal del Derecho de Autor.
+
+- XII. Reglamento de la Ley de la Propiedad Industrial.
+
+- XIII. Reglamento de la Ley Federal de las Entidades Paraestatales.
+
+- XIV. Reglamento de la Ley Federal del Derecho de Autor.
+
+- XV. Contrato de Fideicomiso número 064-1 de INFOTEC de fecha 30 de diciembre de 1974 y sus convenios modificatorios.
+
+- XVI. Manual de Organización de INFOTEC.
+
+## **Definiciones**
+
+=== CHUNK 2 ===
+- XVI. Manual de Organización de INFOTEC.
+
+## **Definiciones**
+
+- **I. Acta de grado.** Documento que se entrega a la persona egresada de alguno de los programas de educación superior impartidos por INFOTEC, por medio del cual las personas miembros del Comité Dictaminador avalan y dan su visto bueno al producto académico de que se trate, según la opción de titulación correspondiente. Se emite para acreditar que la persona estudiante ha concluido formalmente los requerimientos académicos establecidos en los respectivos programas de estudio. La misma deberá realizarse por escrito con firma autógrafa o a través de los medios que INFOTEC establezca.
+
+- **II. Asignaturas.** Son los elementos constitutivos del plan de estudios que dan nombre y contenido a las temáticas que se estudian en un curso específico en el periodo escolar que le corresponda según dicho plan.
+
+=== CHUNK 3 ===
+- **III. Aula Virtual.** Es una herramienta en línea que apoya la administración de procesos de enseñanza y de aprendizaje, con acceso a la información, contenidos y actividades en diversos formatos, favoreciendo el intercambio y la comunicación entre personas estudiantes, personas con actividades de docencia y personal administrativo de INFOTEC.
+
+- **IV. Biblioteca de INFOTEC.** Es el área perteneciente a la Dirección Adjunta de Innovación y Conocimiento que pone a disposición de la comunidad INFOTEC, recursos documentales impresos y digitales especializados en tecnologías de información y comunicación (TIC), con el objetivo de satisfacer necesidades informativas, relacionadas con programas de estudio institucionales, de personas estudiantes, docentes y colaboradoras de INFOTEC en general.
+
+=== CHUNK 4 ===
+- **V. Calendario Lectivo o Calendario Escolar.** Establece las fechas de impartición de clases a lo largo de un año natural, así como fechas de exámenes, inicio y fin de periodo, entre otras fechas relevantes del quehacer académico de INFOTEC.
+
+- **VI.**
+
+**Cohorte generacional o Generación.** Grupo de personas estudiantes que iniciaron
+
+estudios en una misma fecha, estipulada en la Convocatoria de admisión respectiva, y cuya fecha de egreso corresponde a la duración del plan de estudios de un programa académico.
+
+- **VII. Comisión** . Es el órgano creado por el Comité Académico e integrado por personas miembros de dicho comité, así como personas invitadas de otras áreas de INFOTEC, a quien se le otorga facultades de análisis sobre temas específicos, para que ésta desarrolle recomendaciones y propuestas sobre asuntos académicos para consideración por el
+
+- **VIII. Comité Académico** . Es el máximo órgano colegiado que resuelve situaciones
+
+=== CHUNK 5 ===
+- **VIII. Comité Académico** . Es el máximo órgano colegiado que resuelve situaciones
+
+académicas de los programas de educación superior de INFOTEC, con las funciones que este Reglamento le otorga.
+
+- **IX. Comité de Admisión y Becas.** Es el órgano colegiado responsable de validar el proceso de admisión de personas candidatas a cursar estudios en INFOTEC y dictaminar sobre su aceptación.
+
+- **X. Comité de Tesis** . Es el órgano colegiado que se constituye para la examinación de manera oral de la opción de titulación de tesis desarrollada por una persona estudiante.
+
+- **XI. Comité Dictaminador** . Es el órgano colegiado que se constituye para la firma del Acta de Grado, con el cual se acredita el cumplimiento de los requisitos académicos y administrativos para la obtención del grado correspondiente.
+
+=== CHUNK 6 ===
+- **XII. Comisión Editorial** . Grupo de trabajo integrado por tres o más personas investigadoras y de la Gerencia de Capital Humano de INFOTEC, encargadas de la evaluación y, en su caso, aprobación de las propuestas editoriales, así como del análisis, revisión y mejora continua del proceso editorial. Asimismo, es el grupo encargado de la elaboración de propuestas de políticas, lineamientos e iniciativas para favorecer la difusión y divulgación científica, tecnológica y el quehacer institucional.
+
+=== CHUNK 7 ===
+- **XIII.** Conductas inapropiadas.  Se entenderá por conductas impropias, de manera enunciativa más no limitativa, a aquellas que incurran en alguna actividad grave que muestre falta de probidad y respeto dentro de las instalaciones o sedes de INFOTEC o, en su caso, en sesiones síncronas a distancia (videoconferencias) relacionadas  con actividades académicas, de acuerdo con lo establecido en el artículo 36 del presente Reglamento de Posgrados o conforme lo dispuesto en el Código de Ética de la Administración Pública Federal o Código de Conducta de INFOTEC, cuando sea aplicable.
+
+- **XIV. Convenio.** Instrumento jurídico a través del cual se establecen los términos y condiciones de bajo los cuales se otorgará un aplazamiento del pago de cuotas de recuperación, así como las responsabilidades y obligaciones de la persona estudiante e INFOTEC.}
+
+=== CHUNK 8 ===
+- **XV. Convocatoria.** Documento en el cual se plasman las bases y requisitos de participación, así como el calendario de actividades y proceso de admisión, para las personas interesadas en ingresar a los programas de posgrados de INFOTEC.
+
+- **XVI. Crédito.** Unidad de valoración de aprendizaje, medido en horas de formación con mediación docente o de formación derivada de estudio independiente, de conformidad con el programa de estudios correspondiente.
+
+**XVII. Deshonestidad Académica Docente.** Es la falta de ética y profesionalismo de personas docentes, personas asesoras, personas coasesoras y personas revisoras al evaluar a las personas estudiantes, promoviendo o realizando actos de corrupción, tales como solicitar a sus estudiantes dinero o pago en especie, o cualquier otro beneficio para la persona docente, a cambio de un beneficio en su evaluación o en su desarrollo académico, anterior podrá ser objeto de una amonestación lo académica o rescisión del contrato.
+
+=== CHUNK 9 ===
+En caso de personas servidoras públicas de INFOTEC además podrá considerarse cualquier incumplimiento al Código de Ética de la Administración Pública Federal o Código de Conducta de INFOTEC, mismo que podrá ser objeto de una amonestación académica, rescisión del contrato o vista ante el Órgano Interno de Control Específico competente de conformidad con las disposiciones legales o administrativas aplicables.
+
+**XVIII.** Deshonestidad Académica Estudiantil. Es la falta de ética de una persona estudiante al entregar trabajos que no son de su autoría, cometer plagio, copiar en los exámenes y cualquier otra forma de fraude académico, así como ofrecer sobornos o regalos a fin de obtener un beneficio en su evaluación o en su desarrollo académico, lo anterior podrá ser objeto de una amonestación académica, baja temporal o baja definitiva, de conformidad con lo establecido en el presente Reglamento.
+
+=== CHUNK 10 ===
+En caso de personas servidoras públicas de INFOTEC además podrá considerarse cualquier incumplimiento al Código de Ética de la Administración Pública Federal o Código de Conducta de INFOTEC.
+
+**XIX. Dirección Ejecutiva** . Máxima autoridad de INFOTEC, integrante del Comité Académico. Tiene las funciones contempladas que el presente Reglamento y el Manual de Organización vigente de INFOTEC le confieren en materia de programas de posgrados.
+
+**XX. Dirección Adjunta de Innovación y Conocimiento** . Es la Unidad administrativa encargada de establecer políticas y procedimientos para la implementación de estudios de posgrado y aprendizaje, así como las demás funciones que el presente Reglamento y el Manual de Organización vigente de INFOTEC le confieren
+
+=== CHUNK 11 ===
+- **XXI.** Estatuto de personal. Establece los derechos y obligaciones del personal de investigación, asimismo, reglamenta su ingreso, evaluación y permanencia. Contiene los requisitos cuantitativos y cualitativos requeridos para el ingreso y permanencia de dicho personal.
+
+- **XXII. Estudios de Posgrados.** Es la opción educativa posterior a los estudios de licenciatura, que comprende los niveles de especialidad, maestría y doctorado.
+
+- **XXIII. Examen Extraordinario.** Examen que se debe presentar para acreditar una asignatura, en caso de no haberla aprobado en el periodo ordinario del curso.
+
+- **XXIV. Gerencia de Capital Humano** . Es el área que participa en la estructuración de losm planes y programas de estudio de INFOTEC, lo cual podrá realizar a través de la Subgerencia de Docencia y el personal de la misma. Sus funciones están definidas en el Manual de Organización de INFOTEC.
+
+=== CHUNK 12 ===
+- **XXV. INFOTEC** . INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación.
+
+- **XXVI. Instalaciones** . Son los espacios dispuestos para las actividades relacionadas con el desarrollo de programas de posgrado escolarizados (presenciales).
+
+- **XXVII. Kardexs o Historial académico** . Documento que contiene información sobre la calificación y currícula de  las personas estudiantes.
+
+- **XXVIII. LGAC.** Líneas de Generación y Aplicación de Conocimiento.
+
+- **XXIX. Mayoría Absoluta** . Número de participantes estrictamente mayor que la mitad de los integrantes del Comité Académico, redondeado hacia el siguiente número entero más grande. Por ejemplo, la mayoría absoluta de 10 integrantes es 6 y la mayoría absoluta de 7 es 4.
+
+=== CHUNK 13 ===
+- **XXX. Núcleo Académico Básico (NAB)** . Grupo constituido por personal académico o personal comisionado, el cual tiene el objetivo de apoyar la conducción de un programa de posgrado. Su número puede variar en función de lo establecido, en su caso, por el Sistema Nacional de Posgrados del CONAHCYT. Sus funciones se establecen en el presente Reglamento.
+
+- **XXXI. Periodo Escolar o Lectivo** . Es el tiempo de duración definido dentro del plan de estudios de cada programa de estudios de educación superior para cada periodo escolar. El periodo escolar estará determinado con base en la currícula de cada plan de estudios, pudiendo ser, de manera enunciativa más no limitativa: cuatrimestral, semestral o anual.
+
+- **XXXII. Persona asesora** . Persona que funge como figura académica que desarrolla una serie de actividades con las personas estudiantes de INFOTEC, para que puedan concluir con la
+
+=== CHUNK 14 ===
+opción de titulación que contempla esta figura (desarrollo tecnológico, proyecto técnico, tesis y aquellas autorizadas por el Comité Académico mediante Acuerdo), que les permita obtener el grado correspondiente. La misma realizará esta actividad sin remuneración,por invitación de la Coordinación Académica o Gerencia de Capital Humano, participación en esta actividad no podrá en ningún caso generar obligaciones patronales ni se entenderá ningún tipo de relación laboral con INFOTEC derivado de esta. En todos los casos que exista persona coasesora, la persona asesora será quien determine la pertinencia de las sugerencias comunicadas por dicha persona o, en su caso, deberán ser consensuadas entre personas asesora y coasesora.
+
+=== CHUNK 15 ===
+**XXXIII.** Persona Coasesora. Persona que funge como figura académica complementaria a la actividad de la persona asesora para guiar a una persona estudiante en el desarrollo de un producto académico de titulación. La misma es designada por la Coordinación Académica  de un posgrado únicamente en casos justificados, derivados de la complejidad o perspectiva multidisciplinaria o interdisciplinaria del producto académico. La persona asesora será quien determine la pertinencia de las sugerencias comunicadas por la persona coasesora o, en su caso, deberán ser consensuadas entre personas asesora y coasesora.  La participación en esta actividad no podrá en ningún caso generar obligaciones patronales ni se entenderá ningún tipo de relación  laboral con INFOTEC derivado de esta.
+
+**XXXIV. Persona Consejera Estudiantil** . Persona estudiante regular de alguno de los posgrados de INFOTEC, que cuenta con las prerrogativas que establece este Reglamento.
+
+=== CHUNK 16 ===
+**XXXV. Persona Coordinadora Académica** . Para efectos de las actividades académicas de la Dirección  Adjunta de Innovación y Conocimiento, es aquella persona que coordina y gestiona el desarrollo académico de uno o más programas académicos de INFOTEC que le fueron encomendados.
+
+**XXXVI. Persona Docente** . Personal académico servidor público o persona profesional, también denominada persona maestra o profesora, especialista en la materia o poseedora de conocimiento, responsable de impartir las asignaturas del plan de estudios de los posgrados de INFOTEC, así como facilitar y orientar el aprendizaje de las personas estudiantes. También tendrá este carácter la persona comisionada por CONAHCYT o asignada a través de cualquier otro mecanismo. Las mismas podrán realizar su actividad a manera de pro bono, por invitación de la Coordinación Académica y Gerencia de Capital Humano.
+
+=== CHUNK 17 ===
+**XXXVII. Persona Estudiante** . Es la persona inscrita en alguno de los programas de posgrado de INFOTEC, que cuenta con un número de matrícula registro que la acredita como miembro de la comunidad estudiantil en activo. También se considerará a aquella que se integra a uno de los programas de posgrado de INFOTEC, mediante movilidad académica
+
+- **XXXVIII. Persona lectora o revisora** . Persona que funge como figura académica que revisa un producto académico de una persona estudiante, para que esta pueda concluir la opción de titulación y obtener el grado correspondiente. La misma realizará su actividad a manera de pro bono, por invitación de la Coordinación Académica y Gerencia de Capital Humano.
+
+=== CHUNK 18 ===
+- **XXXIX. Personal académico** . Para efectos del presente Reglamento se denomina personal académico al que desempeña funciones de investigación, docencia, extensión, vinculación y/o actividades de innovación, según el nombramiento o relación que tenga con INFOTEC, conforme a los planes y programas establecidos por el mismo.
+
+- **XL. Personas aspirantes** . Son todas las personas que participan en el proceso de selección para ser aceptadas como estudiantes de los programas de posgrados de INFOTEC.
+
+- **XLI. Plan de Estudios** . Es el documento alineado a la normativa de la Secretaría de Educación Pública que presenta los objetivos generales de los programas académicos de INFOTEC, los perfiles de ingreso y de egreso de las personas estudiantes, así como la estructuración y evaluación curricular.
+
+- **XLII. Política editorial** . Política con criterios generales de publicaciones académicas bajo el sello editorial de INFOTEC.}
+
+=== CHUNK 19 ===
+- **XLIII. Producto académico:** Documento escrito resultado del trabajo de investigación de una persona estudiante, sea especializado o de divulgación, para las opciones de titulación que así lo requieran, el cual deberá estar alineado a las LGAC vigentes del posgrado correspondiente.
+
+- **XLIV. Recursamiento.** Cursar una asignatura por segunda vez. Este recurso se considera extraordinario, previa solicitud de la persona estudiante, asignación de grupo, en su caso, verificación de no adeudos por concepto de cuotas de recuperación autorizadas y demás requisitos que establezca este Reglamento.
+
+- **XLV. Reglamento de Admisión y Becas.** Instrumento normativo que establece los criterios generales de admisión a programas de educación superior de INFOTEC, incluyendo posgrados y carreras técnico superior universitario (TSU), así como del otorgamiento de becas o beneficios, que en su caso apliquen, para personas estudiantes.
+
+=== CHUNK 20 ===
+- **XLVI. Subgerencia de Docencia.** Es el área que coordina la estructuración de los planes y programas de estudio de INFOTEC. Sus funciones están definidas en el Manual de Organización de INFOTEC.
+
+- **XLVII. Tiempo Máximo establecidas grado.** Es el tiempo que transcurre para cursar las asignaturas establecidas en un plan de estudios de educación superior en INFOTEC y obtener el grado.
+
+# **Ámbito de aplicación**
+
+El presente Reglamento de Posgrados es de observancia obligatoria para todas las personas integrantes de la Dirección Adjunta de Innovación y Conocimiento que coordinen el diseño, desarrollo y operación de los planes y programas de estudio de posgrado de INFOTEC en todas sus modalidades educativas de impartición. Además, personas estudiantes, personas egresadas, personas docentes, personas asesoras, personas coasesoras, personas lectoras y personas servidoras públicas participantes en los procesos y funciones formativas.
+
+# **TÍTULO |**
+
+# **DISPOSICIONES GENERALES**
+
+=== CHUNK 21 ===
+# **TÍTULO |**
+
+# **DISPOSICIONES GENERALES**
+
+# **CAPÍTULO |**
+
+# **DE LA GESTIÓN DE LOS POSGRADOS Y SUS ESTUDIOS**
+
+=== CHUNK 22 ===
+Artículo 1. Para efectos del presente Reglamento de Posgrados, las autoridades que tiene capacidad de toma de decisiones, en el ámbito de sus responsabilidades, son las siguientes:
+
+- I. Comité Académico.
+
+- II. .Comité de Admisión y Becas.
+
+- III. Dirección Ejecutiva. IV. Dirección Adjunta de Innovación y Conocimiento.
+
+- V. Gerencia de Capital Humano.
+
+- VI. Subgerencia de Docencia.
+
+- VII. Coordinación Académica.
+
+- VIII. Núcleo Académico Básico.
+
+=== CHUNK 23 ===
+Artículo 2. El Comité Académico es el máximo órgano colegiado encargado de regular y supervisar las actividades y resultados inherentes al proceso académico dentro de INFOTEC.
+
+El Comité Académico está constituido por:
+
+- I. La persona titular de la Dirección Ejecutiva, quien fungirá como persona Consejera permanente.
+
+- II. La persona titular de la Dirección Adjunta de Innovación y Conocimiento, quien fungirá como persona Presidenta.
+
+- III. La persona titular de la Gerencia de Capital Humano, quien fungirá como persona Secretaria Técnica
+
+- IV. La persona titular de la Gerencia de Innovación, quien fungirá como Vocal.
+
+- V. Una persona Coordinadora Académica de cada programa de posgrado, quienes fungirán como Vocales. En caso de ausencia, una persona del personal académico del posgrado podrá fungir como su suplente.
+
+=== CHUNK 24 ===
+Artículo 2 (continuación). - VI. Una persona Coordinadora de cada programa de Técnico Superior Universitario (TSU), quien o quienes fungirán como Vocal. En caso de ausencia, una persona del personal académico, designada por la persona Presidenta de este Comité.
+
+- VII. Las personas invitadas que determine la Presidencia o la Secretaría Técnica del Comité, a sugerencia de cualquiera de las personas miembros del Comité, cuando los temas a tratar así lo requieran.
+
+La persona Consejera permanente, la persona Presidenta, la persona Secretaria Técnica y personas vocales tendrán derecho a voz y voto; las personas invitadas sólo tendrán derecho a voz.
+
+=== CHUNK 25 ===
+**Artículo 3** . El Comité Académico sesionará de manera ordinaria al menos dos veces al año, y s convocado por oficio o de manera electrónica por la Secretaría Técnica con al menos tres días hábiles de anticipación; en la última sesión del año se deberá aprobar el calendario de sesiones ordinarias para el año siguiente. Se podrán realizar tantas sesiones extraordinarias como se consideren necesarias, las cuales deberán ser convocadas por la Secretaría Técnica con al menos 48 horas de anticipación.
+
+=== CHUNK 26 ===
+**Artículo 4** . El Comité Académico tendrá las siguientes funciones:
+
+- I. Aprobar y modificar las políticas académicas generales de los programas posgrados de INFOTEC.
+
+- II. Aprobar la conformación del Núcleo Académico Básico para cada programa de posgrado.
+
+- III. Revisar alguna modificación al presente Reglamento y, en su caso, solicitar la aprobación a la persona titular de la Dirección Ejecutiva de INFOTEC como oportuna o necesaria.
+
+- IV. Aprobar o rechazar propuestas de normatividad que se requieran para el mejor funcionamiento de los procesos relacionados con los estudios de programas de posgrado de INFOTEC. Estas propuestas pueden ser hechas por los propios miembros del Comité Académico
+
+=== CHUNK 27 ===
+Artículo 4 (continuación). - V. Aprobar disposiciones y documentación que se requiera para el mejor funcionamiento de los procesos relacionados con los estudios de programas de posgrados. Estas propuestas pueden ser hechas por los propios miembros del Comité Académico. Formar comisiones con personas miembros del personal académico y de ser necesario invitar personal de otras áreas de INFOTEC para atender asuntos académicos. En la creación de cada comisión, el Comité Académico otorgará facultades de análisis a la comisión, para que proponga soluciones a ser evaluadas por el Comité Académico para su dictamen resolutorio.
+
+- VI. Formar comisiones con personas miembros del personal académico y de ser necesario invitar personal de otras áreas de INFOTEC para atender asuntos académicos. En la creación de cada comisión, el Comité Académico otorgará facultades de análisis a la comisión, para que proponga soluciones a ser evaluadas por el Comité Académico para su dictamen resolutorio.
+
+=== CHUNK 28 ===
+Artículo 4 (continuación). - VII. Supervisar el cumplimiento de los procedimientos estipulados en el presente Reglamento de Posgrados y de cualquier otra normativa que rija programas académicos en INFOTEC, así como los acuerdos específicos que se hayan aprobado.
+
+- VIII. Emitir observaciones y recomendaciones que considere convenientes para el mejor funcionamiento de los procesos relacionados con los posgrados y cualquier otro programa académico en INFOTEC.
+
+- IX. Formular propuestas para la revisión de los procesos de evaluación de personas estudiantes y personas docentes.
+
+- X. Analizar y resolver los conflictos académicos con personas estudiantes y personas docentes, los cuales no hayan podido ser resueltos por la Subgerencia de Docencia, Gerencia de Capital Humano y/o Dirección Adjunta de Innovación y Conocimiento en primera instancia.
+
+- XI. Resolver las apelaciones de negativas de baja temporal o definitiva.
+
+=== CHUNK 29 ===
+Artículo 4 (continuación). - XI. Resolver las apelaciones de negativas de baja temporal o definitiva.
+
+- XII. Autorizar las cuotas por concepto de servicios escolares, incluyendo los montos de las cuotas de recuperación, de los programas de posgrado y en términos de la normativa aplicable.
+
+- XIII. Autorizar las propuestas de planes y programas de estudio de posgrados que se imparten en el INFOTEC y, en su caso, sus propuestas de actualización, para ser sometidos a la autorización de la Secretaría de Educación Pública.
+
+- XIV. Autorizar nuevos esquemas para la obtención del grado o título.
+
+- XV. Designar a las personas miembros de la Comisión Editorial.
+
+- XVI. En caso de no existir una Persona Consejera Estudiantil Vigente, podrá convocar a la elección de la Persona Consejera estudiantil Vigente.
+
+- XVII. Cualquier otra directamente relacionada al ámbito de su competencia y las demás que se establezcan en la demás normativa aplicable.
+
+=== CHUNK 30 ===
+**Artículo 5.** Para poder sesionar, el Comité Académico requiere como mínimo la asistencia de la mitad más 1 (uno) del total de las personas integrantes del Comité Académico con derecho a voto. Presidirá las sesiones la persona titular de la Dirección Adjunta de Innovación y Conocimiento y en su ausencia la persona titular de la Gerencia de Capital Humano.
+
+A falta de ambas, la primera tendrá que designar a una persona Presidenta Suplente, la cual deberá ser integrante de este Comité con derecho a voto. Se considerará que un acuerdo es aprobado por el Comité Académico siempre que la mayoría absoluta de los asistentes a la sesión con voz y voto, vote a favor del acuerdo. En caso de empate, la persona Consejera Permanente tendrá voto de calidad. Las decisiones tomadas por acuerdo del Comité Académico serán inapelables.
+
+=== CHUNK 31 ===
+**Artículo 6.** En el proceso de votación de acuerdos, las personas miembros del Comité Académico con voz y voto podrán ejercer cualquiera de los siguientes tres tipos de voto de manera exclusiva: voto a favor, voto en contra o abstinencia de voto. Las razones del voto competen a cada una de las personas miembros del Comité Académico y son discrecionales, de conformidad al artículo 8 del presente Reglamento. Además, cada una de las personas miembros del Comité Académico conocerá en la misma sesión el voto emitido por el resto de las personas miembros.
+
+El voto de cada persona miembro del Comité Académico tendrá que hacerse de manera expresa mediante el uso de la voz, o en su defecto, por escrito, siempre que la emisión del voto sea solicitada con relación a un acuerdo.
+
+=== CHUNK 32 ===
+**Artículo 7.** En caso de que no se llegue a una mayoría absoluta de aprobación de un acuerdo, el Comité Académico tendrá la capacidad de designar a una comisión de análisis de los puntos del caso en controversia. La comisión de análisis estará constituida por al menos tres personas miembros del Comité Académico, mismas que serán elegidas en la sesión.
+
+La comisión desarrollará recomendaciones y propuestas sobre asuntos académicos para consideración por el Comité Académico.
+
+=== CHUNK 33 ===
+**Artículo 8.** Las decisiones tomadas por el Comité Académico deberán estar fundadas y motivadas, con referencia a la normatividad aplicable.
+
+=== CHUNK 34 ===
+**Artículo 9.** Los acuerdos aprobados por el Comité Académico que establezcan reglas o normas que afecten a la comunidad académica de INFOTEC, deberán ser comunicados a través de los medios de difusión y comunicación institucionales. En caso de que dichos acuerdos hayan sido difundidos en los términos antes descritos, no se podrá alegar por parte de persona alguna su desconocimiento o desacato.
+
+Los  acuerdos aprobados por el Comité Académico que contengan datos datos personales y requieran ser difundidos, deberán ser testados para proteger dichos datos.
+
+=== CHUNK 35 ===
+**Artículo 10.** Las personas Coordinadoras Académicas, adscritas a las Gerencias de la Dirección Adjunta de Innovación y Conocimiento, son las responsables del desarrollo académico de los planes y programas de estudios que les fueron encomendados, siguiendo un principio de calidad en las funciones listadas enseguida. Las funciones de las personas Coordinadoras Académicas son:
+
+- I. Proponer a las personas docentes para el programa de posgrado correspondiente, así como supervisar que la información académica del personal docente esté actualizada. Dicha propuesta deberá ser enviada para aprobación a la Subgerencia de Docencia, Gerencia de Capital Humano o Dirección Adjunta de Innovación y Conocimiento.
+
+- II. Facilitar la comunicación entre las personas docentes y la Subgerencia de Docencia, con el fin de celebrar el contrato respectivo cuando aplique
+
+- III. Verificar el cumplimiento de las actividades académicas que fueron encomendadas a las personas docentes.
+
+=== CHUNK 36 ===
+Artículo 10 (continuación). - IV. Integrar y mantener actualizada la plantilla de personas docentes de cada curso y ciclo escolar.
+
+- V. Garantizar el reemplazo de alguna persona docente, o bien, la reposición de la clase por parte de la persona docente titular del curso cuando no sea posible impartir una clase en el horario y fecha programados.
+
+- VI. Invitar a las personas docentes a la elaboración de propuestas para la actualización de los planes y programas de estudio.
+
+- VII. Elaborar o coordinar las propuestas de actualización de los planes y programas de estudio, tomando en consideración las propuestas de personas docentes.
+
+- VIII. Mantener comunicación directa con las personas docentes con el fin de monitorear y mejorar la calidad de la enseñanza y el cumplimiento del programa.
+
+- IX. Atender los posibles conflictos académicos entre personas docentes y personas estudiantes e informar sobre irregularidades o inconformidades surgidas en el ambiente académico de los posgrados que coordinan.
+
+=== CHUNK 37 ===
+Artículo 10 (continuación). - X. Aprobar o, en su caso, rechazar el registro de los productos académicos derivados de una opción de titulación, cuyo tema deberá estar apegado a las LGAC vigentes del posgrado correspondiente.
+
+- XI. Asignar personas asesoras, coasesoras en su caso y lectoras para el producto académico a desarrollar por las personas estudiantes; conceder o denegar solicitudes de cambio de personas asesoras, coasesoras en su caso y lectoras.
+
+- XII. Exponer ante la Subgerencia de Docencia solicitudes escritas de personas estudiantes por inconformidad de calificación asentada en actas.
+
+- XIII. Participar en las sesiones del Comité Académico y las comisiones que le sean designadas.
+
+- XIV. Proponer a la Gerencia de Capital Humano o Subgerencia de Docencia la realización de eventos académicos o actividades extracurriculares relacionadas con los posgrados que se imparten en INFOTEC.
+
+- XV. Impulsar la producción académica de personas estudiantes de los posgrados de INFOTEC.
+
+=== CHUNK 38 ===
+Artículo 10 (continuación). - XV. Impulsar la producción académica de personas estudiantes de los posgrados de INFOTEC.
+
+- XVI. Coordinador o apoyar la organización de seminarios de investigación.
+
+- XVII. Promover y apoyar el egreso y graduación de estudiantes, fomentando la vinculación de los productos académicos de las personas estudiantes con los proyectos institucionales y las LGAC del programa académico que coordinan.
+
+- XVIII. Promover y apoyar el egreso y graduación de estudiantes, fomentando la vinculación de los productos académicos de las personas estudiantes con los proyectos institucionales y las LGAC del programa académico que coordinan.
+
+- XIX. Mantener la comunicación con otras áreas que coadyuven en el cumplimiento de programas de estudios y calidad académica.
+
+- XX. Proponer a las personas integrantes del Núcleo Académico Básico del programa posgrado.
+
+- XXI. Aprobar propuestas de modificaciones o actualizaciones al modelo educativo relacionado con programas de posgrado.
+
+=== CHUNK 39 ===
+Artículo 10 (continuación). - XXII. Cualquier otra directamente relacionada que le sea asignada en el ámbito de su competencia y las demás que se establezcan en la demás normativa aplicable.
+
+=== CHUNK 40 ===
+**Artículo 11.** El personal académico, persona comisionada o persona asignada que forme parte del NAB de un programa de posgrado deberá cumplir con el requisito de desarrollar proyectos de investigación humanística, científica, desarrollo tecnológico o innovación en INFOTEC, relacionados con las LGAC vigentes, y, preferentemente, corresponder al programa de posgrado de que se trate.
+
+Una vez aprobada su integración al NAB, deberán firmar una carta compromiso para realizar las actividades especificadas en el artículo 12 del presente reglamento.
+
+El NAB podrá:
+
+- I. Proponer y acordar con las personas integrantes del NAB, el desarrollo de actividades de actualización de conocimientos y difusión científica y tecnológica, dirigidas a personas estudiantes y egresadas.
+
+=== CHUNK 41 ===
+Artículo 11 (continuación). - II. Analizar y emitir recomendaciones en casos de controversia académica que puedan suscitarse con personas estudiantes y docentes, a solicitud de la persona Coordinadora Académica, Subgerencia de Docencia o Gerencia de Capital Humano.
+
+- III. Cualquier otra que establezca la normativa aplicable.
+
+=== CHUNK 42 ===
+**Artículo 12.** Las personas integrantes de un NAB realizarán las siguientes actividades:
+
+- I. Impartir asignaturas en el programa de posgrado del cual formen parte, por invitación de la persona Coordinadora Académica.
+
+- II. Asesorar, coasesorar o revisar productos académicos de opciones de titulación personas estudiantes, por invitación de la persona Coordinadora Académica.
+
+- III. Proponer personas docentes para las asignaturas del programa de posgrado, a solicitud de la persona Coordinadora Académica.
+
+- IV. Proponer personas asesoras, coasesoras y lectoras de productos académicos, a solicitud de la persona Coordinadora Académica.
+
+- V. Apoyar en actividades relacionadas con la opción de titulación de Diplomado, a solicitud de la persona Coordinadora Académica.
+
+- VI. Cualquier otra que establezca la normativa aplicable.
+
+=== CHUNK 43 ===
+**Artículo 13.** Las personas servidoras públicas del personal docente tendrán asignadas las siguientes funciones:
+
+- I. Impartir asignaturas.
+
+- II. Asesorar o coasesorar productos académicos derivados de las diversas opciones de titulación
+
+- III. Revisar productos académicos derivados de las diversas opciones de titulación.
+
+- IV. Entrevistar personas aspirantes a programas de posgrado.
+
+- V. Las que se especifiquen en su contrato.
+
+- VI. Aquellas que estén determinadas en el Estatuto de personal, en su caso.
+
+=== CHUNK 44 ===
+- **Artículo 14** . Las personas profesionales docentes realizarán las siguientes actividades:
+
+- I. Impartir asignaturas.
+
+- II. Asesorar o coasesorar productos académicos derivados de las diversas opciones de titulación
+
+- III. Revisar productos académicos derivados de las diversas opciones de titulación.
+
+- IV. Las que se especifiquen en su contrato.
+
+En lo que respecta a las fracciones II y III , se realizará mediante invitación de la persona Coordinadora Académica o de la persona titular de la Subgerencia de Docencia.
+
+=== CHUNK 45 ===
+**Artículo 15.** Las personas docentes comisionadas y asignadas realizarán las siguientes actividades:
+
+- I. Impartir asignaturas.
+
+- II. Asesorar o coasesorar productos académicos derivados de las diversas opciones de titulación
+
+- III. Revisar productos académicos derivados de las diversas opciones de titulación.
+
+En lo que respecta a las fracciones II y III, se realizará mediante invitación de la persona Coordinadora Académica o de la persona titular de la Subgerencia de Docencia.
+
+# **CAPÍTULO II**
+
+# **DE LA PERSONA CONSEJERA ESTUDIANTIL**
+
+=== CHUNK 46 ===
+**Artículo 16.** Una persona estudiante podrá registrarse como aspirante a persona Consejera Estudiantil, si cumple con los siguientes requisitos:
+
+- I. Tener categoría de persona estudiante regular.
+
+- II. Contar con promedio mínimo de 9 (nueve).
+
+- III. Estar cursando el último año de su plan de estudios.
+
+- IV. No haber sido amonestado en términos de lo establecido en el presente Reglamento.
+
+=== CHUNK 47 ===
+**Artículo 17** . La Persona Consejera Estudiantil tendrá las siguientes funciones:
+
+- I. Participar como invitada en las reuniones del Comité Académico.
+
+- II. Gestionar reuniones entre personas estudiantes y autoridades de posgrado para plantear propuestas de mejora en asuntos de competencia estudiantil
+
+- III. Otras que por su naturaleza le pueda otorgar el Comité Académico.
+
+=== CHUNK 48 ===
+**Artículo 18.** La persona Consejera Estudiantil será electa en proceso democrático por personas estudiantes de los posgrados de INFOTEC cuya inscripción esté vigente.
+
+El proceso de votación de la persona Consejera Estudiantil deberá ser convocado por la persona Consejera Estudiantil vigente durante el mes de julio del año en curso. La elección de la nueva persona Consejera Estudiantil deberá realizarse en la primera quincena del mes de agosto, cuyos postulantes deberán ser dos o más personas estudiantes que cumplan con los requisitos establecidos en el artículo 16 de este Reglamento de Posgrados. En caso de que la persona Consejera Estudiantil saliente no convoque a la elección, el Comité Académico estará facultado para convocar a dicha elección para persona Consejera Estudiantil.
+
+El periodo de la persona Consejera Estudiantil será de máximo dos semestres o tres cuatrimestres, conforme al plan de estudios al que esté inscrito.
+
+# **CAPÍTULO III**
+
+# **DE LOS ESTUDIOS DE POSGRADO**
+
+=== CHUNK 49 ===
+**Artículo 19.** Los estudios de posgrado tienen como objetivo principal desarrollar en las personas estudiantes una sólida y amplia formación en un campo de conocimiento, con el fin de potenciar su capacidad para desempeñarse en la práctica profesional y/o la investigación.
+
+El nivel de los programas académicos que se ofertan son los siguientes:
+
+- I. Especialidad: nivel educativo posterior a la licenciatura, en el que se profundiza un tema o área determinada dentro de un campo profesional y se obtiene el título respectivo.
+
+- II. Maestría: nivel educativo posterior a la licenciatura que otorga un grado académico. Las maestrías de INFOTEC se dividen en dos enfoques: investigación y profesionalizante, los cuales se definen a continuación:
+
+   - a) Enfoque por investigación: su objetivo es preparar principalmente futuras personas docentes e investigadoras cuyos resultados de investigación son considerados puros o básicos y/o aplicados, orientados a la generación de conocimiento.
+
+=== CHUNK 50 ===
+Artículo 19 (continuación). - b) Enfoque profesionalizante: su meta es formar profesionales con las herramientas teórico-prácticas, necesarias para analizar, innovar, adoptar y aplicar el conocimiento humanístico, científico y tecnológico, relacionado con las TIC, para el desempeño de su profesión.
+
+- III. Doctorado: Nivel educativo posterior a la maestría que otorga un grado académico. Este posgrado está encaminado a la formación de personas egresadas capacitadas para la docencia y la investigación, con dominio en temas de un área en particular. Sus investigaciones deberán ser el resultado de propuestas innovadoras e inéditas en la aplicación de conocimientos previos.
+
+=== CHUNK 51 ===
+**Artículo 20.** Las asignaturas de cada uno de los planes de estudio se impartirán de acuerdo con el calendario escolar de cada posgrado en los periodos descritos a continuación:
+
+- I. Especialización, de 12 meses.
+
+- II. Maestría, de 24 meses.
+
+- III. Doctorado, de 48 meses a 60 meses.
+
+=== CHUNK 52 ===
+Artículo 21. Los programas de posgrados podrán estar estructurados en periodos escolares cuatrimestrales o semestrales, conforme sea más pertinente a la orientación y modalidad educativa, dando preferencia a la calendarización semestral.
+
+Las modalidades educativas de los posgrados de INFOTEC serán las establecidas por la Ley General de Educación Superior, a saber: escolarizada, no escolarizada (a distancia, en línea/virtual), mixta y dual.
+
+=== CHUNK 53 ===
+**Artículo 22.** La modalidad establecida en cada uno de los posgrados de INFOTEC no puede ser modificada o solicitada de nuevo por las personas estudiantes una vez que la misma haya sido seleccionada.
+
+# **TÍTULO II**
+
+# **DE LA TRAYECTORIA ESCOLAR**
+
+# **CAPÍTULO I**
+
+# **DEL INGRESO A POSGRADOS**
+
+=== CHUNK 54 ===
+**Artículo 23.** La Dirección Adjunta de Innovación y Conocimiento, a través de la Gerencia de Capital Humano, convocará y coordinará el proceso de ingreso a los posgrados en términos del Reglamento de Admisión y Becas de INFOTEC, atendiendo los requerimientos establecidos en la Convocatoria o en las bases de invitación correspondiente.
+
+La publicación de la Convocatoria para ingresar a los posgrados deberá ser autorizada por la Dirección Adjunta de Innovación y Conocimiento y deberá contener los elementos especificados por el Reglamento de Admisión y Becas.
+
+# **CAPÍTULO II**
+
+# **DE LA CALIDAD DE LA PERSONA ESTUDIANTE, SUS DERECHOS Y OBLIGACIONES**
+
+=== CHUNK 55 ===
+**Artículo 24.** Tendrán calidad de personas estudiantes quienes hayan completado el trámite de inscripción al programa de posgrado donde fueron admitidas, adquiriendo con ello los derechos y obligaciones que establece el presente Reglamento de Posgrados. La calidad de estudiante regular se pierde si no se reinscribe durante su trayectoria en algún periodo escolar.
+
+=== CHUNK 56 ===
+**Artículo 25** . Para los términos del presente reglamento existirán las siguientes categorías:
+
+- I. Persona estudiante, la cual podrá ser:
+
+   - a. Estudiante regular. La persona que ha cursado y aprobado las asignaturas de los periodos escolares que corresponden al avance académico de su cohorte generacional, cubierto las cuotas que en su caso hayan sido autorizadas y se encuentre inscrita y activa.+
+
+   - b. Estudiante irregular por situación académica. Quién no ha acreditado una o más asignaturas en su cohorte generacional durante su trayectoría escolar. Una persona estudiante irregular por situación académica no podrá volver a ser considerada estudiante regular.
+
+=== CHUNK 57 ===
+Artículo 25 (continuación). - c. Estudiante irregular por pasivos. Una persona estudiante será considerada irregular por pasivos si no está al corriente con las cuotas de recuperación que en su caso se autoricen, no estar al corriente con los compromisos establecidos en el instrumento correspondiente o acumule dos aplazamientos de pago de cuotas de recuperación sin haber cubierto al menos uno primero. Una persona
+
+      - estudiante irregular por pasivos no podrá volver a ser considerada estudiante regular.
+
+   - d. Estudiante en baja temporal. Aquella persona estudiante que ha interrumpido sus estudios de manera voluntaria, previa solicitud formal y por escrito a la Gerencia de Capital Humano y le fuera aceptada esta situación, o le fuera aplicada por la Gerencia de Capital Humano.
+
+- II . Persona egresada, la cual podrá ser:
+
+=== CHUNK 58 ===
+Artículo 25 (continuación). - II . Persona egresada, la cual podrá ser:
+
+   - a. Persona egresada. Persona que acreditó el 100% de créditos obligatorios asociados a las asignaturas del programa de posgrado que se encontraba cursando, sin presentar ningún adeudo de las cuotas de recuperación que se encuentra aún en proceso de obtención del grado, de acuerdo con las diversas opciones de titulación vigentes, por lo que requiere aún de servicios educativos de INFOTEC. La condición de persona egresada puede ser modificada, a persona egresada titulada o ex estudiante en baja definitiva.
+
+   - b. Persona egresada titulada o persona graduada. Persona que concluye los estudios correspondientes al programa, así como el proceso de titulación establecido por INFOTEC.
+
+=== CHUNK 59 ===
+- **Artículo 26.** Son derechos generales de todas las personas estudiantes de posgrado de INFOTEC:
+
+- I. Expresar sus ideas en todo momento; la práctica de la libertad de expresión deberá ejercerse de manera respetuosa hacia los derechos de terceros.
+
+- II. Ser informados de que sus datos personales están protegidos y serán tratados única y exclusivamente para los fines por los que fueron recabados.
+
+- III. Recibir la credencial que lo acredite como persona estudiante, en el formato establecido por INFOTEC.
+
+- IV. Ser inscrita en tiempo y forma en el periodo escolar o curso que le corresponda, siempre y cuando cumpla con los requisitos establecidos.
+
+- V. Tener acceso y hacer uso de la Biblioteca e instalaciones específicas para el estudio o trabajo individual y grupal, mostrando su credencial vigente dentro de los días y horarios determinados para tal efecto y de acuerdo con la normativa aplicable.
+
+=== CHUNK 60 ===
+Artículo 26 (continuación). - VI. Tener acceso a las áreas de estacionamiento asignadas para tal efecto, mostrando identificación vehicular establecida, siempre y cuando se cuente con el número de cajones suficientes para proporcionar este servicio, se encuentre inscrito en un programa con modalidad escolarizada (presencial) y se le haya autorizado previamente el acceso, de conformidad con la normativa aplicable.
+
+- VII. Solicitar la suspensión temporal de sus estudios las veces que sean necesarias hasta por un plazo máximo acumulado de 24 meses. Deberá presentar solicitud de suspensión temporal por escrito y fundamentarla a la Gerencia de Capital Humano. El escrito deberá contener fecha, número de matrícula, nombre y firma autógrafa o el mecanismo que la Gerencia de Capital Humano implemente. De no estar al corriente en los pagos de las cuotas de recuperación que, en su caso, se autoricen, la solicitud no procederá. Casos
+
+=== CHUNK 61 ===
+Artículo 26 (continuación). excepcionales podrán ser analizados por la Gerencia de Capital Humano y autorizados por la Dirección Adjunta de Innovación y Conocimiento.
+
+- VIII. Solicitar su reincorporación para continuar con su plan de estudios. Dicha solicitud se deberá presentar por escrito ante la Gerencia de Capital Humano, con los mismos requisitos de la fracción anterior, máximo diez días hábiles antes de concluir con el periodo de baja temporal que le haya sido autorizado.
+
+- IX. Solicitar cambio trayectoria de especialización dentro de un programa de estudios, en su caso y según se contemple en el plan de estudios, para lo cual deberá solicitarlo por escrito a la Gerencia de Capital Humano durante el primer ciclo escolar correspondiente al plan de estudio. En caso de excepción deberá exponer las causas justificadas por escrito al Comité Académico.
+
+- X. Recibir notificaciones por escrito.
+
+=== CHUNK 62 ===
+Artículo 26 (continuación). - X. Recibir notificaciones por escrito.
+
+- XI. Ser escuchada y atendida,  a través de los medios que INFOTEC establezca y por medio de la Subgerencia de Docencia, con la oportunidad que su asunto requiera por las autoridades señaladas en el artículo 1 de este Reglamento de Posgrados fracciones I a la VI, en el orden ascendente, comenzando por la Coordinación Académica en primera instancia hasta el Comité Académico.
+
+- XII. Recibir puntualmente el número de sesiones o clases previstas para cada programa, de acuerdo con la modalidad del plan de estudios. En casos imprevistos o causas de fuerza mayor en los que una o más sesiones no puedan ser impartidas por la persona docente, la misma está obligada a reponerlas durante el periodo escolar vigente.
+
+- XIII. Solicitar el recursamiento de asignaturas, de conformidad con el artículo 27 del presente Reglamento.
+
+=== CHUNK 63 ===
+Artículo 26 (continuación). - XIV. Verificar en el Aula Virtual, el Sistema Integral de Gestión Académica (SIGA) o medio que INFOTEC establezca, el resultado de las evaluaciones por la persona docente antes de que sean asentadas en actas.
+
+- XV. Consultar la tira de materias que le acreditan como persona estudiante del periodo escolar respectivo, inmediatamente después de su inscripción inicial o reinscripción mediante el SIGA.
+
+- XVI. Ser informada de las evaluaciones finales de cada asignatura, con el propósito de verificar los resultados, antes de que seas registradas en las actas correspondientes
+
+- XVII. En caso de desacuerdo con la evaluación final de una asignatura, solicitar por escrito la revisión de dicha calificación a la persona docente, informando en todo momento a la SUbgerencia de Docencia.
+
+=== CHUNK 64 ===
+Artículo 26 (continuación). - XVIII. Recibir de la persona docente de cualquier asignatura, por escrito o a través del Aula Virtual, el SIGA o medio que INFOTEC establezca, el resultado de la solicitud de revisión de la calificación que se haya requerido, durante la etapa de revisión de calificaciones establecido en el Calendario lectivo.
+
+- XIX. Entregar una justificación de ausencia a clases por escrito a la persona docente y Subgerencia de Docencia, de conformidad con la modalidad del programa de estudios y, en su caso, asistencia mínima requerida por la persona docente.
+
+- XX. Conocer la plantilla de personas docentes que imparten las clases del ciclo escolar vigente.
+
+=== CHUNK 65 ===
+Artículo 26 (continuación). - XX. Conocer la plantilla de personas docentes que imparten las clases del ciclo escolar vigente.
+
+- XXI. Seleccionar alguna de las opciones de titulación establecidas en el artículo 43 del presente Reglamento, dentro del periodo establecido para ello en el artículo 44 del mismo, siempre que se cumpla con los requisitos establecidos para tal fin y que, en si caso, la misma se encuentre disponible y vigente para el programa de posgrado correspondiente.
+
+- XXII. En caso de seleccionar una opción de titulación con figura de asesoría académica, proponer a la persona asesora o coasesora, previa aceptación de la(s) misma(s), y solicitar a la persona Coordinadora Académica del posgrado, por escrito, le sea formalmente asignada.
+
+=== CHUNK 66 ===
+Artículo 26 (continuación). - XXIII. Solicitar a la persona Coordinadora Académica, por escrito, el cambio de persona asesora, coasesora, lectora o revisora, por razones justificadas, siendo algunas de estas la falta de acuerdo so0bre los métodos, perspectiva teórica, tiempos, calidad de los resultados del trabajo, por desacuerdo en categorías.
+
+- XXIV. Recibir por escrito comentarios de retroalimentación por las personas lectoras o revisoras asignadas por la persona Coordinadora Académica.
+
+- XXV. Solicitar prórroga al periodo de gracia, de conformidad con el artículo 41 del presente Reglamento de Posgrados.
+
+- XXVI. Conocer el calendario escolar en donde se establecen los siguientes elementos: fechas de inicio y fin de curso, períodos para realizar inscripciones, reinscripciones, bajas temporales y definitivas, registro de las calificaciones, corrección de calificaciones y días feriados en su caso.
+
+=== CHUNK 67 ===
+Artículo 26 (continuación). Las personas estudiantes en baja temporal y personas estudiantes con estatus irregular por pasivos,no podrán ejercer los derechos establecidos en las fracciones I II, IV, V, VI, 1X, XII, XIII y XXVI, hasta en tanto hayan regularizado su situación de reinscripción, pagos o llegado a un acuerdo económico de su adeudo con INFOTEC; o bien hayan resarcido su falta a través del cumplimiento de la sanción establecida, siempre y cuando ésta ýultima no sea la baja definitiva.
+
+=== CHUNK 68 ===
+**Artículo 27.** La persona estudiante podrá solicitar el recursamiento de hasta tres asignaturas no acreditadas en maestría y especialidad, y una en el caso de doctorado, por una sola ocasión por asignatura, en el ciclo escolar inmediato posterior en que se abra la misma. De no aprobar por segunda ocasión la asignatura, la persona estudiante la deberá acreditar por examen extraordinario. Por otro lado, si la asignatura abriese más de un año posterior a obtener una calificación no aprobatoria, la persona estudiante la podrá acreditar por examen extraordinario; en el caso de que obtenga una calificación no aprobatoria, deberá solicitar el recursamiento.
+
+Las personas estudiantes tendrán derecho a solicitar el examen extraordinario de la asignatura no acreditada en una ocasión, siempre y cuando no acumule más de tres asignaturas reprobadas del plan de estudios, en el caso de posgrados nivel maestría y especialidad y más de una en el caso de programas de doctorado.
+
+=== CHUNK 69 ===
+Artículo 27 (continuación). Las personas estudiantes deberán realizar la solicitud para recursamiento o presentar examen extraordinario a la Subgerencia de Docencia, durante el periodo de firma de actas por parte de las personas docentes o en los periodos que establezca la Subgerencia de Docencia. Para autorizar el recursamiento de asignaturas o el examen extraordinario, la persona estudiante deberá estar al corriente del pago de las cuotas de recuperación.
+
+Cuando la asignatura no vaya a abrir nuevamente en el futuro o no cuente con su equivalencia correspondiente en el plan de estudios vigente, la persona estudiante deberá presentar examen extraordinario.
+
+Asimismo, se deberán considerar las limitaciones a la realización de recursamientos y exámenes extraordinarios que, en su caso, contemple CONAHCYT a los programas de los Centros Públicos de Investigación.
+
+=== CHUNK 70 ===
+Artículo 27 (continuación). Casos excepcionales podrán ser analizados por la Gerencia de Capital Humano, previo informe de la Coordinación Académica y Subgerencia de Docencia, así como autorizadas por la Dirección Adjunta de Innovación y Conocimiento.
+
+=== CHUNK 71 ===
+Artículo 28. Son obligaciones de las personas estudiantes de posgrados de INFOTEC:
+
+- I. Conocer y acatar el presente Reglamento de Posgrado y demás normativa interna que resulte aplicable. El desconocimiento de las disposiciones de este Reglamento de Posgrados, así como de las emanadas de las autoridades correspondientes, no justificará su incumplimiento.
+
+- II. Conocer el contenido de cada programa académico, así como su organización y las formas de evaluación de los aprendizajes.
+
+- III. Realizar oportunamente los trámites administrativos correspondientes a cada etapa en su trayectoria escolar, en los términos y plazos establecidos por las autoridades competentes.
+
+=== CHUNK 72 ===
+Artículo 28 (continuación). - IV. Respetar a todo el personal académico, personas docentes y personal administrativo o cualquier persona que se encuentre en las instalaciones de INFOTEC; por lo que, bajo ninguna circunstancia se tolerarán conductas inapropiadas o faltas de respeto hacia los mismos. El incumplimiento de esta obligación conllevará a la inmediata revisión del Comité Académico, con la posibilidad de enfrentar sanciones de acuerdo a la gravedad del asunto a tratar. Dichas sanciones, según su gravedad, pueden ameritar desde la suspensión temporal de la persona estudiante, hasta su baja definitiva.
+
+- V. Respetar los horarios establecidos; asistir puntualmente a clases presenciales, y participar en las sesiones presenciales o sincronas a distancia que se realicen, de conformidad con la modalidad del programa de estudios y de la agenda de trabajo establecida por la persona docente.
+
+=== CHUNK 73 ===
+Artículo 28 (continuación). - VI. Aprobar cada una de las asignaturas y cubrir todos los créditos que conforman el plan de estudios en el tiempo y forma que se establecen para los efectos en el presente Reglamento de Posgrados.
+
+- VII. Realizar la citación correcta de los trabajos académicos, evitando plagio o cualquier otro tipo de deshonestidad académica estudiantil, bajo pena de ser sancionado por el Comité Académico. Las sanciones pueden ser desde una amonestación, reprobar la asignatura en la que cometió dicho plagio, hasta la baja definitiva del posgrado, o una grave acción deshonesta que cause daños a terceros o INFOTEC, aplicando lo mismo cuando las amonestaciones ocurran de manera repetida. Lo anterior con independencia de las
+
+acciones legales en la materia que corresponda que el INFOTEC y/o cualquier tercero afectando lleven a cabo.
+
+=== CHUNK 74 ===
+Artículo 28 (continuación). - VIII. Reunirse regularmente con su persona asesora y, en su caso, coasesora, para atender sus recomendaciones respecto al desarrollo del producto académico seleccionado para opción de titulación, cuando corresponda.
+
+- IX. Cumplir con el porcentaje mínimo de asistencias a clases presenciales o síncronas a distancia para aprobar la asignatura, establecido, en su caso, por la persona docente, de conformidad con la modalidad del programa de estudios seleccionado y de la agenda de trabajo establecida por la persona docente.
+
+- X. Presentar las evidencias correspondientes para la obtención del grado ante la Subgerencia de Docencia, establecidas en el artículo 62.
+
+- XI. Pagar las cuotas de recuperación autorizadas y costos de otros servicios escolares, de conformidad con lo establecido en el presente Reglamento y normativa aplicable.
+
+- XII. Concluir en tiempo y forma el programa de estudios al cual se inscribió.
+
+=== CHUNK 75 ===
+Artículo 28 (continuación). - XII. Concluir en tiempo y forma el programa de estudios al cual se inscribió.
+
+- XIII. Obtener un promedio general mínimo de 8.0 (ocho punto cero) para optar por la obtención del grado, de conformidad con los requisitos de egreso estipulados en el presente Reglamento de Posgrados.
+
+- XIV. Comparecer ante las autoridades de INFOTEC que así lo hayan solicitado, en persona cuando así se requiera, siempre que no existan causas de fuerza mayor que lo impidan o hacerlo a través de los medios que INFOTEC establezca para tal efecto.
+
+- XV. Mantener comunicación con las autoridades y áreas académicas o administrativas de INFOTEC, a través de los medios oficiales de comunicación indicados por INFOTEC.
+
+# **CAPÍTULO III**
+
+# **DE LA PERMANENCIA EN EL POSGRADO**
+
+=== CHUNK 76 ===
+**Artículo 29.** Tendrán derecho a reinscripción:
+
+- I. Las personas estudiantes regulares, irregulares por situación académica y estudiantes que repitan la asignatura en una sola ocasión.
+
+- II. Las personas estudiantes cuya baja temporal llegó a su fin.
+
+- III. Las personas estudiantes que cuenten con una autorización especial por Comité Académico para tal fin.
+
+En el el caso de estudiantes irregulares por situación académica con más de tres asignaturas reprobadas o irregulares por pasivos por adeudos de cuotas de recuperación, podrán solicitar por escrito su intención de reinscripción dirigido a la Gerencia de Capital Humano, a través del Área Gestión Académica incluyendo la justificación respectiva. La Gerencia de Capital Humano analizará el caso y lo presentará a la Dirección Adjunta de Innovación y Conocimiento, quien resolverá.
+
+=== CHUNK 77 ===
+**Artículo 30** . Las inscripciones deberán realizarse al inicio de cada periodo escolar de conformidad a los tiempos estipulados en el calendario escolar y por el medio establecido por la Subgerencia de Docencia.
+
+=== CHUNK 78 ===
+**Artículo 31** . Durante la trayectoria escolar, la categoría de persona estudiante puede modificarse por baja voluntaria la cual incluye la modalidad de baja temporal o definitiva a solicitud expresa de la persona estudiante.
+
+La baja temporal aplica sólo cuando sea persona estudiante regular o irregular por situación académica. Con la baja temporal se suspende el pago de cuotas que, en su caso, se hayan autorizado por el periodo otorgado en la baja. No se aceptarán las bajas temporales si ha transcurrido el 75% del periodo escolar o más.
+
+Cualquier persona estudiante puede solicitar en el momento que desee su baja definitiva. Con la baja definitiva se cancelan las obligaciones de INFOTEC para ofrecer servicios educativos a la persona estudiante.
+
+=== CHUNK 79 ===
+Artículo 31 (continuación). La solicitud de baja temporal o definitiva deberá hacerse a la Gerencia de Capital Humano por escrito mediante una carta formal con firma autógrafa, o a través de los medios que INFOTEC establezca, donde señale la causa que motiva dicha petición.
+
+En caso de personas estudiantes irregulares por pasivos, que soliciten bajas temporales, podrán ser analizados por la Gerencia de Capital Humano y autorizados por la Dirección Adjunta de Innovación y Conocimiento.
+
+La Gerencia de Capital Humano, notificará por escrito la autorización o en su caso la respuesta que proceda para la autorización de la baja temporal.
+
+=== CHUNK 80 ===
+**Artículo 32.** Durante la trayectoria escolar de una persona estudiante, la Gerencia de Capital Humano podrá aplicar la baja temporal por alguna de las causas siguientes:
+
+- I. Cuando no se haya reinscrito en dos periodos escolares consecutivos, sean cuatrimestres o semestres, conforme señale el plan de estudios de su programa de posgrado, con excepción del periodo de suspensión aplicada por enfermedad o incapacidad.
+
+- II. Por incumplimiento de las obligaciones aceptadas de las cuotas de recuperación de uno o más ciclos escolares que en su caso se encuentren vigentes, con excepción del periodo de suspensión aplicada por enfermedad o incapacidad.
+
+- III. Por enfermedad o incapacidad
+
+- IV. Como medida disciplinaria-administrativa, por conductas diferentes a las establecidas en el artículo 36.
+
+=== CHUNK 81 ===
+**Artículo 33** . A quien haya solicitado baja voluntaria de sus estudios o se le haya aplicado la baja temporal, recuperará su calidad de persona estudiante automáticamente al cumplirse el periodo determinado por la Gerencia de Capital Humano y por lo que respecta al tiempo de estudios se estará a lo siguiente:
+
+- I. Cuando se autorice la baja voluntaria temporal señalada en el artículo 31, el periodo de suspensión será considerado como tiempo de estudio.
+
+- II. Cuando se autorice la baja voluntaria temporal señalada en el artículo 31, el periodo de suspensión será considerado como tiempo de estudio.
+
+- III. Cuando se aplique la fracción II o III del artículo 32, el periodo de suspensión será considerado como tiempo de estudio.
+
+- IV. En el caso de encontrarse al mismo tiempo en los dos supuestos de las fracciones I y II artículo 32, el periodo de suspensión autorizado será considerado como tiempo de estudio.
+
+=== CHUNK 82 ===
+Artículo 33 (continuación). - V. En caso de encontrarse al mismo tiempo en los dos supuestos de las fracciones II y IV del VI artículo 32, el periodo de suspensión autorizado será considerado como tiempo de estudio.
+
+- VI. En el caso de encontrarse al mismo tiempo en los dos supuestos de las fracciones Il y III del artículo 32, el periodo de suspensión autorizado no será considerado como tiempo de estudio.
+
+Lo anterior para fines de calcular su tiempo máximo de estudios,en caso de que el programa de estudios de la persona estudiante lo establezca.
+
+=== CHUNK 83 ===
+**Artículo 34** . Cuando las bajas temporales sean mayores a un año y si en este periodo hubo cambios curriculares, la persona estudiante se incorporará a un proceso de actualización de conformidad con lo que señale la Gerencia de Capital Humano para tales fines.
+
+=== CHUNK 84 ===
+**Artículo 35.** La calidad de persona estudiante se pierde por alguna de las causas siguientes:
+
+- I. Por la obtención del grado.
+
+- II. Por baja voluntaria definitiva, donde se señale los motivos de la misma.
+
+- III. Por defunción.
+
+- IV. Por baja definitiva determinada por el Comité Académico y lo señalado en el artículo 36.
+
+=== CHUNK 85 ===
+**Artículo 36** . El Comité Académico podrá aplicar baja definitiva por alguna de las causas siguientes:
+
+- I. Por alcanzar el tiempo máximo de estudios sin haber obtenido el grado del programa de posgrado al que estuvo inscrito, de acuerdo con lo que señale el plan de estudios correspondiente y concluidos los períodos de gracia y, en su caso, prórroga autorizada.
+
+- II. Por reprobar cuatro o más asignaturas durante su trayectoria escolar en el posgrado, en el caso de programas nivel maestría y dos o más, en el caso de programas de doctorado.
+
+=== CHUNK 86 ===
+Artículo 36 (continuación). - III. Por haberse conducido con falsedad, falta de ética o por haber cometido plagio en actividades de las asignaturas, o en productos académicos entregados para la obtención del grado, cuando la Subgerencia de Docencia, personas docentes, lectoras, asesoras o coasesoras, o comisión formada por el Comité Académico, notifiquen y comprueben que la persona estudiante ha cometido plagio en la elaboración de tareas y trabajos académicos dentro de alguna asignatura o en el desarrollo de un producto académico de
+
+titulación, o por haber incurrido en cualquier caso de deshonestidad académica, tales como copiar en un examen de conocimientos o falsificar resultados de una investigación.
+
+- IV. Por haber incurrido en alguna actividad grave que muestre falta de probidad y respeto dentro o fuera de las instalaciones o sedes de INFOTEC, o en su caso, en sesiones sincronas a distancia o videoconferencias, tales como:
+
+   - a. Acoso u hostigamiento sexual o de otra naturaleza.
+
+=== CHUNK 87 ===
+Artículo 36 (continuación). - a. Acoso u hostigamiento sexual o de otra naturaleza.
+
+   - b. Violencia física,verbal o escrita.
+
+   - c. Hurto
+
+   - d. Asistir a clases en estado de ebriedad o bajo el efecto de estupefacientes.
+
+   - e. Ingresa a las instalaciones portando armas blancas, de fuego o explosivos.
+
+   - f. Se descubra falsedad en los datos o documentos proporcionados por la persona estudiante.
+
+   - g. Se descubra que la persona estudiante haya alterado documentos institucionales (constancias, fichas de depósitos, historiales académicos).
+
+   - h. Hacer mal uso de las instalaciones o recursos que INFOTEC ha dispuesto para el desarrollo de sus actividades escolares.
+
+- V.       Otras que determine el Comité Académico.
+
+=== CHUNK 88 ===
+Artículo 36 (continuación). - V.       Otras que determine el Comité Académico.
+
+A excepción de las fracciones | y lI, cuando a una persona estudiante le sea aplicada la baja definitiva pierda definitivamente su calidad de estudiante, se procederá a hacer efectivo el cobro de las cuotas de recuperación que, en su caso, se hayan autorizado para programas de posgrado.
+
+En caso de que se presente alguno de los supuestos señalados en las fracciones III, IV y V del presente artículo, independientemente de las sanciones administrativas, se podrán ejercer las acciones legales que se estimen convenientes y que conforme a derecho procedan, por parte de INFOTEC o de terceros afectados.
+
+Cuando aplique la baja definitiva, INFOTEC no expedirá títulos intermedios, pudiendo, en su caso, otorgar a la persona estudiante constancia de los estudios concluidos conforme al plan de estudios de la especialidad, maestría o doctorado.
+
+=== CHUNK 89 ===
+**Artículo 37.** Durante la trayectoria escolar de una persona estudiante, la Gerencia de Capital Humano podrá aplicar la baja definitiva por incumplimiento de las obligaciones aceptadas de las cuotas de recuperación que en su caso se encuentren vigentes, si en un plazo establecido en el artículo 69 la persona estudiante irregular por pasivos o en baja temporal no cubre los adeudos, previo requerimiento de pago.
+
+=== CHUNK 90 ===
+**Artículo 38** . En caso de denuncia en contra de personas estudiantes, la Gerencia de Capital Humano recibirá la denuncia por escrito, acompañada de los medios probatorios correspondientes, quien\en un plazo de 5 (cinco) días hábiles la notificará por medios físicos o electrónicos a la persona denunciada para que en un término de 10 (diez) días hábiles manifieste por escrito a lo que derecho convenga. Si se tratare de conductas referidas al artículo 36, la Gerencia de Capital Humano enviará el expediente al titular de la Dirección Adjunta de Innovación y Conocimiento, quien convocará al Comité Académico para sesionar de manera extraordinaria para que un plazo de 15 (quince) días hábiles emita su resolución. Si no se tratare de conductas
+
+referidas al artículo 36, la Gerencia de Capital Humano resolverá en un plazo de 15 (quince) días hábiles de conformidad con la fracción IV del artículo 32. Ambas resoluciones son irrevocables.
+
+=== CHUNK 91 ===
+**Artículo 39** . En caso de que la persona estudiante tenga algún adeudo académico podrá solicitar su reinscripción, con objeto de cursar y aprobar asignaturas aún pendientes, sin ser acreedor a la baja definitiva, siempre y cuando se encuentre dentro del tiempo máximo de graduación que en su caso establezca el plan de estudios de su programa de posgrado.
+
+# **CAPÍTULO IV DEL EGRESO**
+
+=== CHUNK 92 ===
+**Artículo 40.** Las personas estudiantes que hayan aprobado el 100% de créditos obligatorios asociados a las asignaturas establecidas en el plan de estudios del posgrado que cursaron, sin presentar ningún adeudo de cuotas, que no esté vigente alguna sanción motivada por falta al presente Reglamento de Posgrados, obtendrán el estatus de persona egresada y perderán su condición de persona estudiante.
+
+=== CHUNK 93 ===
+**Artículo 41.** Las personas estudiantes que al momento de terminar su plan de estudios y alcancen el estatus de personas egresadas, podrán disponer en forma automática y sin necesidad de solicitud expresa, de un periodo de gracia de seis meses naturales posteriores a la conclusión del 100% de créditos obligatorios, para poder concluir el proceso de obtención de su grado. En caso de haber solicitado, dentro del periodo de gracia, la opción de titulación de Diplomado, el periodo de gracia podrá extenderse hasta la conclusión del mismo.
+
+Este periodo de gracia, extiende a las personas egresadas la vigencia de la credencial y su derecho al uso de los servicios, y en su caso, de instalaciones educativas de INFOTEC.
+
+=== CHUNK 94 ===
+**Artículo 42.** En caso de que la persona egresada no esté en condiciones de graduarse antes del vencimiento del periodo de gracia, podrá solicitar ante la Gerencia de Capital Humano, a través de la Subgerencia de Docencia, un periodo de prórroga de hasta por seis meses.
+
+La solicitud de prórroga deberá hacerse por escrito y fundamentada en situaciones excepcionales y debidamente documentada, 10 días hábiles antes de la fecha de conclusión del periodo de gracia, debiendo ser acompañada de un programa de trabajo que atienda todos los compromisos académicos aún pendientes de solventar, firmada por la persona egresada, estableciendo claramente las metas y entregables a lo largo del periodo de prórroga solicitado.
+
+=== CHUNK 95 ===
+Artículo 42 (continuación). En el caso de opciones de titulación con persona asesora, además de lo establecido en el párrafo anterior, deberá integrar una opinión de la persona asesora y, en su caso, coasesora, designada(s) sobre el programa de trabajo, quien o quienes habrán de evaluar la factibilidad de completar exitosamente los compromisos académicos en mención antes de concluir el periodo de prórroga solicitado.
+
+La Gerencia de Capital Humano resolverá la solicitud de prórroga e informará por escrito a la persona egresada solicitante a través de la Subgerencia de Docencia.
+
+# **CAPÍTULO V**
+
+# **DE LAS OPCIONES DE TITULACIÓN Y LA OBTENCIÓN DEL GRADO**
+
+=== CHUNK 96 ===
+**Artículo 43.** La persona estudiante de posgrados de INFOTEC podrá seleccionar alguna de las siguientes opciones de titulación, de acuerdo con el nivel de estudios del programa correspondiente.
+
+- I. En programas de estudio de nivel maestría con orientación profesionalizante, podrá seleccionar algunas de las siguientes opciones de titulación:
+
+- a. Excelencia Académica.
+
+- b. Diplomado.
+
+- c. Desarrollo tecnológico.
+
+- d. Publicación arbitrada.
+
+- e. Proyecto Técnico.
+
+- f. Tesis.
+
+- g. Cualquier otra opción de titulación que el Comité Académico autorice.
+
+La opción “Excelencia académica” no podrá aplicar para personas estudiantes de la Maestría en Sistemas Embebidos o los posgrados que determine el Comité Académico, mediante Acuerdo.
+
+II.  En programas de estudio de nivel doctorado con orientación hacia la investigación, podrá seleccionar alguna de las siguientes opciones de titulación: a. b. Tesis. Cualquier otra opción de titulación que el Comité Académico autorice.
+
+- a. Tesis
+
+=== CHUNK 97 ===
+Artículo 43 (continuación). - a. Tesis
+
+- b. Cualquier otra opción de titulación que el Comité Académico autorice .
+
+Los productos académicos elaborados para la obtención del grado deberán estar alineados a las LGAC vigentes del posgrado correspondiente.
+
+=== CHUNK 98 ===
+**Artículo 44.** En el caso de posgrados nivel maestría y con excepción de la opción de titulación de Excelencia académica, la persona estudiante deberá registrar su opción de titulación a más tardar en el segundo ciclo escolar del programa de estudios, de acuerdo con los medios establecidos por la Subgerencia de Docencia.
+
+En el caso de posgrados nivel doctorado, las personas estudiantes deberán presentar su propuesta de protocolo de investigación, de acuerdo con los medios establecidos por la Subgerencia de Docencia.
+
+=== CHUNK 99 ===
+**Artículo 45** . En opciones de titulación bajo conducción de una persona asesora y, en su caso, coasesora, para el producto académico a desarrollar, la persona Coordinadora Académica del programa de posgrado, en su caso con la asistencia de la Subgerencia de Docencia, invitará y, en su caso, asignará una persona asesora o coasesora idónea del personal académico. Cuando el tema no pueda ser atendido por personal de la plantilla, la persona Coordinadora del posgrado propondrá a la Subgerencia de Docencia una persona asesora o coasesora externa para su autorización.
+
+Una vez contando con la aprobación de la persona asesora y, en su caso, coasesora, al producto académico, la Coordinación Académica asignará una o más personas lectoras (“revisoras”), acorde con el tema desarrollado.
+
+=== CHUNK 100 ===
+**Artículo 46** . La persona estudiante 0, en su caso, persona egresada, podrá proponer a la persona que desee como su persona asesora o coasesora, lo cual podrá ser tomado en cuenta por la Coordinación Académica para su designación.
+
+Asimismo, la persona Coordinación Académica, en casos plenamente justificados, derivados de la complejidad o perspectiva multidisciplinaria o interdisciplinaria del producto académico, podrá designar a una persona coasesora, quien podrá realizar sugerencias y retroalimentación en ámbitos específicos de su especialidad. En todos los casos, la persona asesora será quien determine la pertinencia de las sugerencias comunicadas por la persona coasesora o, en su caso, deberán ser consensuadas entre ambas partes.
+
+=== CHUNK 101 ===
+**Artículo 47.** A partir de los requisitos establecidos en el presente Reglamento para cada opción de titulación, las Guías de titulación de cada programa de posgrado establecerán los medios y tiempos a seguir para la obtención del grado de las opciones de titulación mencionadas en el artículo 43.
+
+Las Guías de titulación cubrirán, de manera enunciativa más no limitativa, los siguientes aspectos:
+
+- I. Medios para el registro de la opción solicitada.
+
+- II. Formatos para el desarrollo del producto académico.
+
+- III. Características y medios de entrega para los informes de avances, en su caso.
+
+- IV. Visto bueno de las personas asesoras y lectoras
+
+- V. Características de la revisión para la prevención de plagio, formato y citación.
+
+- VI. Medios y tiempos para la entrega del producto académico, según corresponda a la opción de titulación.
+
+- VII. Visto bueno del Comité Dictaminador correspondiente.
+
+=== CHUNK 102 ===
+Artículo 47 (continuación). - VII. Visto bueno del Comité Dictaminador correspondiente.
+
+Las Guías de titulación deberán contar con el visto bueno del NAB del posgrado correspondiente y de la Gerencia de Capital Humano, así como la autorización de la Dirección Adjunta de Innovación y Conocimiento. En caso de no estar conformado formalmente el NAB del posgrado, corresponderá a la Coordinación Académica del programa otorgar su visto bueno.
+
+=== CHUNK 103 ===
+**Artículo 48.** Durante el curso de sus estudios y hasta alcanzar el tiempo máximo de graduación que en su caso indique el plan de estudios, la persona estudiante podrá solicitar un cambio de opción de titulación una vez cada año, para la cual podrá solicitar su aplicación en cualquiera de los casos cumpliendo con los requisitos de la misma.
+
+=== CHUNK 104 ===
+**Artículo 49.** La persona estudiante podrá solicitar cambios o modificaciones a la opción de titulación seleccionada, de conformidad con los plazos y medios informados en las Guías de titulación o en su caso por la Subgerencia de Docencia. En todos los casos, deberá incorporar el visto bueno de la persona asesora y, en su caso, coasesora, con copia a la Subgerencia de Docencia.
+
+=== CHUNK 105 ===
+**Artículo 50** . La opción de titulación por excelencia académica estará disponible para personas estudiantes de posgrados profesionalizantes nivel maestría, con excepción de aquellos determine el Comité Académico mediante Acuerdo.
+
+Para aplicar a esta opción de titulación es requisito tener un desempeño académico sobres: sostenido a lo largo del programa de estudios, además se deberá cumplir con lo siguiente:
+
+- I. Haber aprobado el 100% de los créditos del plan de estudios de forma ordinaria, esto sin recursamientos, ni exámenes extraordinarios.
+
+- II. No ser persona egresada de la  Maestría en Sistemas Embebidos o de los posgrados que determine el Comité Académico, mediante Acuerdo.
+
+- III. Concluir con un promedio de general mínimo de 9.5 (nueve punto cinco).
+
+- IV. No contar con sanciones administrativas por deshonestidad académica.
+
+=== CHUNK 106 ===
+Artículo 50 (continuación). - IV. No contar con sanciones administrativas por deshonestidad académica.
+
+- V. Entregar un producto académico de divulgación, el cual podrá ser derivado del avance correspondiente al producto académico que haya registrado durante su programa de estudios. La descripción para la realización de este producto será incluida en las Guías de Titulación de cada posgrado.
+
+- VI. Contar con los votos aprobatorios del Comité Dictaminador, propuesto por tal efecto por la Coordinación Académica y autorizado por la Gerencia de Capital Humano.
+
+- VII. Entregar el producto académico de divulgación a la Biblioteca de INFOTEC, previa validación de formato, citación y prevención de plagió.
+
+- VIII. No contar con adeudos de cuotas por servicios escolares u otros conceptos.
+
+=== CHUNK 107 ===
+Artículo 50 (continuación). - VIII. No contar con adeudos de cuotas por servicios escolares u otros conceptos.
+
+La persona estudiante deberá solicitar esta opción de titulación mediante escrito firmado dirigido a la Subgerencia de Docencia, con copia a la Coordinación Académica respectiva, con el fin de verificar el cumplimiento de los requisitos académicos y administrativos anteriores. La solicitud deberá realizarse a más tardar 20 días hábiles posteriores a la conclusión formal de su último ciclo de estudios.
+
+=== CHUNK 108 ===
+**Artículo 51.** La opción de titulación por diplomado para posgrados profesionalizantes nivel maestría estará disponible para personas estudiantes que adeuden únicamente asignaturas vinculadas con el un trabajo terminal de titulación o personas egresadas que desean profundizar sus conocimientos en área afín a las LGAC de los programas de posgrado. Para aplicar a esta
+
+opción de titulación es requisito que la persona se postule a un diplomado autorizado por INFOTEC, el cual debe incluir entre sus características ser “opción de titulación” para el posgrado correspondiente.
+
+La persona deberá solicitar su inscripción en el diplomado, mediante el formato autorizado que deberá entregarse a la Subgerencia de Docencia, con el fin de verificar el cumplimiento de los requisitos académicos y administrativos.
+
+Se otorgará la titulación por diplomado a la persona egresada que cumpla con lo siguiente:
+
+- I. Haber aprobado el 100% de los créditos del programa de posgrado respectivo.
+
+=== CHUNK 109 ===
+Artículo 51 (continuación). - I. Haber aprobado el 100% de los créditos del programa de posgrado respectivo.
+
+- II. Aprobar el diplomado de conformidad con los términos establecidos en la Convocatoria correspondiente.
+
+- III. Contar con los votos aprobatorios del Comité Dictaminador del producto académico, designado para tal efecto por la Coordinación Académica y autorizado por la Gerencia de Capital Humano.
+
+- IV. Entregar el producto académico desarrollado a la Biblioteca de INFOTEC previa validación de formato, citación y prevención de plagio por la Biblioteca.
+
+- V. No contar con adeudos de cuotas por servicios escolares u otros conceptos.
+
+Los diplomados como opción de titulación podrán diseñarse para personas egresadas de dos 0 posgrados.
+
+=== CHUNK 110 ===
+**Artículo 52** . La opción de titulación por desarrollo tecnológico para posgrados profesionalizantes nivel maestría, se otorgará la titulación por desarrollo tecnológico a la persona egresada que cumpla con lo siguiente:
+
+- I. Haber aprobado el 100% de los créditos del programa de posgrado.
+
+- II. Documentar y comprobar el desarrollo de una solución tecnológica o de innovación que incorpore técnicas y/o aspectos teóricos relevantes en el área de estudio y de las LGAC del posgrado, abordando problemas científicos, sociales o tecnológicos en siguientes categorías:
+
+   - a. Librerías, entornos o marcos de trabajo (frameworks), Interfaces de Programación de Aplicaciones (API, por sus siglas en inglés).
+
+   - b. Aplicaciones de escritorio o servicio web.
+
+   - c. Prototipos.
+
+   - d. Patentes.
+
+=== CHUNK 111 ===
+Artículo 52 (continuación). - b. Aplicaciones de escritorio o servicio web.
+
+   - c. Prototipos.
+
+   - d. Patentes.
+
+- III. En el caso de desarrollos que incorporan código fuente o integración de hardware, estar acompañados de la documentación correspondiente, como pueden ser manuales de usuario, instalación, descripción de la arquitectura, casos de uso, entre otros.
+
+- IV. Contar con los votos aprobatorios de la persona asesora, coasesora en su caso y revisora. V. Entregar el producto académico desarrollado a la Biblioteca de INFOTEC, previamente validado en cuestión de formato, citación y prevención de plagio, en los tiempos y medios establecidos en la Guía de titulación del posgrado.
+
+- VI. No contar con adeudos de cuotas por servicios escolares u otros conceptos.
+
+=== CHUNK 112 ===
+**Artículo 53** . La opción de titulación por publicación arbitrada para posgrados profesionalizantes nivel maestría estará disponible para las personas egresadas que cumplan con lo siguiente:
+
+- I. Haber aprobado el 100% de los créditos del programa de posgrado respectivo.
+
+- II. Contar con la versión completa de un artículo científico o de divulgación, libro o capítulo de libro publicado, sujetos a un riguroso arbitraje o revisión por pares. Para su validación, se deberá tener evidencia del proceso de revisión por parte de la editorial o revista. En caso de no estar publicado, se deberá entregar la versión aceptada para su publicación, incluyendo la evidencia correspondiente.
+
+- III. Contar con los votos aprobatorios del Comité Dictaminador, designado para tal efecto por parte de la Coordinación Académica y autorizado por la Gerencia de Capital Humano.
+
+=== CHUNK 113 ===
+Artículo 53 (continuación). - IV. Entregar el producto académico correspondiente a la Biblioteca de INFOTEC, en su versión completa y en los tiempos y medios establecidos en la Guía de titulación del posgrado correspondiente.
+
+- V. No contar con adeudos por servicios escolares u otros conceptos.
+
+=== CHUNK 114 ===
+**Artículo 54.** En la opción de titulación de Proyecto Técnico para posgrados profesionalizantes nivel maestría, se deberá considerar lo siguiente:
+
+- I. El Proyecto Técnico es un documento donde se expone un proyecto desarrollado tanto para el sector productivo o de servicios como para el ámbito científico, o un resumen de actividades profesionales de innovación de sistemas, aparatos o sobre el mejoramiento técnico de algún proceso vinculado con actividades profesionales.
+
+- II. Se otorgará la titulación por proyecto técnico a la persona estudiante que adeude únicamente asignaturas vinculadas con el trabajo terminal de titulación o persona egresada que desarrolle el proyecto considerando alguna de las siguientes opciones:
+
+   - a. Un proyecto de proceso de mejora y transformación para el sector productivo o de servicios;
+
+   - b. Un proyecto de proceso de mejora y transformación para el ámbito científico;
+
+=== CHUNK 115 ===
+Artículo 54 (continuación). - b. Un proyecto de proceso de mejora y transformación para el ámbito científico;
+
+   - c. Un resumen de acciones, estrategias y actividades profesionales de innovación de sistemas, aparatos o mejoramiento técnico de algún proceso vinculado con actividades profesionales.
+
+- III. Para optar por esta alternativa de titulación la persona deberá:
+
+   - a. Haber aprobado el 100% de los créditos del programa de posgrado.
+
+   - b. Contar con los votos aprobatorios del Comité Dictaminador, designado para tal efecto por parte de la Coordinación Académica y autorizado por la Gerencia de Capital Humano.
+
+   - c. Entregar el producto académico desarrollado a la Biblioteca de INFOTEC, previamente validado en cuestión de formato, citación y prevención de plagio.
+
+   - d. No contar con adeudos de cuotas por servicios escolares u otros conceptos. e.
+
+=== CHUNK 116 ===
+**Artículo 55** . La opción de titulación por tesis para posgrados profesionalizantes nivel maestría, considera a la tesis como un informe orientado a describir el impacto y contribución de una investigación en el conocimiento científico, demostrando originalidad y un grado de innovación.
+
+- I. Se otorgará la titulación por tesis a la persona egresada que:
+
+   - a. Entregue protocolo de investigación y, en su caso, sugerencia de persona asesora.
+
+   - b. Presente su disertación en un foro público para socialización de hallazgos.
+
+   - c. Entregue a la Subgerencia de Docencia los votos aprobatorios de la(s) persona(s) asesora(s), coasesora(s), en su caso, y revisora(s) designados para tal efecto por parte de la Coordinación Académica.
+
+   - d. No contar con adeudos por servicios escolares u otros conceptos.
+
+- II. Para optar por esta alternativa de titulación la persona egresada deberá:
+
+   - a. Haber aprobado el 100% de los créditos del programa de posgrado.
+
+=== CHUNK 117 ===
+Artículo 55 (continuación). - a. Haber aprobado el 100% de los créditos del programa de posgrado.
+
+   - b. Entregar producto académico desarrollado a la Biblioteca de INFOTEC, previamente validado en cuestión de formato, citación y prevención de plagio.
+
+   - c. Las personas asesoras y revisoras formarán el Comité de Tesis, frente al cual la persona egresada llevará a cabo tanto un examen cerrado como un evento de defensa pública, ambos de manera oral, a través de los medios establecidos por INFOTEC.
+
+   - d. Las personas miembros del Comité de Tesis, designadas para tal efecto por la Gerencia de Capital Humano, formarán parte del Comité Dictaminador, el cual llevará a cabo la firma del acta de grado correspondiente.
+
+=== CHUNK 118 ===
+**Artículo 56.** Sobre la opción de titulación por Tesis para posgrados nivel de doctorado.
+
+La Tesis es una investigación académica orientada a describir el impacto y contribución de la investigación en el conocimiento científico, demostrando originalidad y un grado de innovación.
+
+- I. Se otorgará la titulación por tesis a la persona estudiante de un programa de doctorado que cumpla con lo siguiente:
+
+   - a. Entregue protocolo de investigación y sugerencia de persona(s) asesora(s).
+
+   - b. Realice y tenga en estatus de aceptado para su publicación al menos un artículo científico, durante el tiempo de su programa de estudios.
+
+   - c. Reporte avances de la investigación en al menos en dos ocasiones, avaladas por la(s) persona(s) asesora(s), de acuerdo con el cronograma original aceptado.
+
+   - d. Presente su disertación en un foro público para socialización de hallazgos.
+
+=== CHUNK 119 ===
+Artículo 56 (continuación). - d. Presente su disertación en un foro público para socialización de hallazgos.
+
+   - e. Entregue a la Subgerencia de Docencia los votos aprobatorios de la(s) persona(s) asesora(s) y revisora(s) designados para tal efecto por parte de la Coordinación Académica.
+
+   - f. No cuente con adeudos por concepto de cuotas de recuperación que, en su caso, se autoricen u otros servicios escolares.
+
+- II. Para optar por esta alternativa de titulación la persona egresada deberá:
+
+   - a. Haber aprobado el 100% de los créditos del programa de posgrado respectivo.
+
+   - b. Entregar el producto académico desarrollado a la Biblioteca de INFOTEC, previamente validado en cuestión de formato, citación y prevención de plagio. Enseguida se enuncian las consideraciones básicas para esta opción de titulación, las cuales podrán ser complementadas en la Guía de titulación del posgrado correspondiente.
+
+=== CHUNK 120 ===
+Artículo 56 (continuación). - c. Las personas asesoras y revisoras formarán el Comité de Tesis, frente al cual la persona egresada llevará a cabo tanto un examen cerrado como un evento de defensa pública, ambos de manera oral.
+
+   - d. Las personas miembros del Comité de Tesis, designadas para tal efecto por la Gerencia de Capital Humano, formarán parte del Comité Dictaminador, el cual llevará a cabo la firma del acta de grado correspondiente.
+
+=== CHUNK 121 ===
+**Artículo 57.** El Comité Dictaminador es el órgano colegiado que se establece con el propósito de otorgar el acta de grado a la persona estudiante que ha completado los requisitos necesarios para la obtención del grado académico.
+
+En las opciones de titulación cuyos productos académicos contemplen la figura de asesoría académica como son tesis, proyecto técnico, desarrollo tecnológico y aquellas que autorice el Comité Académico, tendrán un Comité Dictaminador que se conforma por las figuras de presidente, vocal y secretario. El presidente del Comité Dictaminador será aquella persona que haya fungido como persona revisora. El vocal será quien funja como la persona asesora o coasesora del producto académico realizado. El secretario será designado por la Gerencia de Capital Humano.
+
+=== CHUNK 122 ===
+Artículo 57 (continuación). En las opciones de titulación cuyos productos académicos no contemplen una figura de asesoría académica como son diplomado, publicación arbitrada y aquellas que autorice el Comité Académico, la persona Coordinadora Académica podrá nombrar a las personas docentes como presidente y vocal.
+
+En todo que funjan Comité Dictaminador, la persona Coordinadora Académica, designará dos personas suplentes, quienes podrán ser miembros del NAB del posgrado correspondiente o de quien designe la Gerencia de Capital Humano, los cuales participaran en caso de que algunas de las personas titulares del Comité se encuentren imposibilitados para llevar a cabo las funciones previstas en su encargo.
+
+=== CHUNK 123 ===
+**Artículo 58.** Durante el desarrollo de los productos académicos de las opciones de titulación, con la excepción de la opción por publicación arbitrada, INFOTEC, a través del área de Biblioteca, revisará los productos académicos y de divulgación en cuestión de formato, citación y prevención de plagio, una vez que la persona estudiante obtenga los votos aprobatorios de parte de las
+
+personas asesoras o coasesoras y lectoras al producto académico, según corresponda a la opción de titulación.
+
+La persona estudiante deberá enviar al área de Biblioteca el producto en cuestión con copia a la Subgerencia de Docencia. El área de Biblioteca emitirá observaciones o recomendaciones en términos de formato, citación y prevención de plagio, considerando los siguientes pasos]:
+
+- I. En caso de que la persona estudiante tenga observaciones por parte del área de Biblioteca, deberá corregirlas en un plazo de quince días hábiles.
+
+=== CHUNK 124 ===
+Artículo 58 (continuación). - II. Si de la persona estudiante enviase su trabajo atendiendo parcialmente a las observaciones dicha área, y ésta, detectará tal situación, se le notificará y deberá atender las observaciones en un plazo de cinco días hábiles.
+
+- III. En el caso extraordinario de una tercera revisión, a petición del área de Biblioteca, la persona estudiante deberá atender a sus observaciones en el plazo de tres días hábiles.
+
+En todo momento, el área de Biblioteca notificará a la Subgerencia de Docencia, con copia a la persona Coordinadora del Posgrado para conocimiento del proceso, al término del cual, la persona estudiante podrá realizar los trámites correspondientes para la obtención del grado.
+
+Durante todo el proceso de revisión de productos académicos, las personas estudiantes podrán solicitar asesoría al área de Biblioteca, con el objetivo de aclarar dudas y atender a la brevedad las observaciones que en su caso hubiere.
+
+=== CHUNK 125 ===
+**Artículo 59.** Todos los productos académicos considerados en las opciones de titulación se realizarán de manera individual por la persona estudiante, con excepción de la publicación arbitrada, en la cual la persona estudiante deberá ser, en su caso, la primera persona autora. Para el resto de opciones de titulación, salvo en ocasiones excepcionales, a solicitud expresa a la Coordinación Académica por parte de las personas estudiantes con la debida justificación y con aprobación del NAB del posgrado correspondiente o, si este no estuviera conformado formalmente, por la Coordinación Académica, se permitirán desarrollar productos académicos en grupo de máximo dos personas.
+
+=== CHUNK 126 ===
+Artículo 59 (continuación). En el caso de existir conflictos entre las personas estudiantes miembro del grupo, que obstaculice o interfiera con el desarrollo del proceso del producto académico, las personas estudiantes no podrán continuar con el trabajo registrado originalmente y deberán iniciar con un nuevo registro de opción de titulación, para lo cual presentarán a la Coordinación Académica su renuncia al producto académico respectivo.
+
+Asimismo, se deberá de considerar que, si alguno de los miembros del grupo causa baja definitiva del programa de posgrado, el resto de personas miembro deberán renunciar expresamente al avance que se haya tenido hasta este momento, por lo que deberán iniciar de nuevo el registro opción de titulación.
+
+=== CHUNK 127 ===
+**Artículo 60.** Durante el desarrollo del producto académico, la persona Coordinadora Académica podrá autorizar el cambio de persona asesora o lectora por un número máximo de tres ocasiones. Esta autorización será a discreción de la persona Coordinadora Académica.
+
+El cambio de persona asesora podrá ser por petición justificada de la persona estudiante o egresada.
+
+En caso de que la persona Coordinadora Académica sea la persona asesora o lectora del producto académico, será la persona titular de la Gerencia de Capital Humano quien otorgue dicha autorización de manera discrecional.
+
+Las personas asesoras, coasesoras, lectoras o revisoras podrán presentar su renuncia por razones justificadas, siendo algunas de estas la falta de acuerdo sobre los métodos, perspectiva teórica, tiempos o calidad de los resultados del trabajo.
+
+=== CHUNK 128 ===
+**Artículo 61.** Las personas egresadas de maestría o de doctorado podrán solicitar, por escrito, a la Subgerencia de Docencia, su certificado total de estudios, siempre y cuando cumpla con los siguientes requisitos:
+
+- I. No estar suspendido en sus derechos de persona estudiante.
+
+- II. Haber acreditado la totalidad de las asignaturas del ciclo de formación del programa académico que le corresponda.
+
+- III. Estar al corriente con sus cuotas de recuperación y sin adeudo de carácter administrativo.
+
+- IV. Entregar las fotografías con las especificaciones requeridas por la Subgerencia de Docencia.
+
+- V. Cubrir la cuota correspondiente para la expedición del certificado total de estudios.
+
+=== CHUNK 129 ===
+**Artículo 62.** Las personas egresadas de maestría o de doctorado deberán solicitar por escrito su Acta de Grado y Título de grado de la Gerencia de Capital Humano, si cumplen la siguientes condiciones y requisitos:
+
+- I. No estar suspendida en sus derechos de persona estudiante.
+
+- II. Contar con el 100% de sus créditos académicos conforme al programa de estudios que le corresponda.
+
+- III. Haber concluido el procedimiento para la obtención de grado de la opción de titulación seleccionada.
+
+- IV. Obtener el voto de cada persona miembro del Comité Dictaminador.
+
+- V. Entregar la carta de no adeudo de asignaturas.
+
+- VI. Entregar la carta de no adeudo por servicios escolares u otros conceptos.
+
+- VII. Entregar la carta de no adeudo de materiales de Biblioteca.
+
+=== CHUNK 130 ===
+Artículo 62 (continuación). - VII. Entregar la carta de no adeudo de materiales de Biblioteca.
+
+- VIII. Comprobar haber entregado en la Biblioteca el producto académico de la opción de titulación de su elección, productos académicos autorizados intermedios en versión digital, en su caso, conforme a su programa de estudios y opción de titulación.
+
+- IX. Comprobar el pago de los trámites de titulación, en su caso.
+
+- X. Entregar las fotografías de acuerdo con las especificaciones solicitadas por la Subgerencia de Docencia, las cuales son necesarias para el Acta de Grado y en su caso el Diploma correspondiente.
+
+- XI. En el caso de programas de doctorado, comprobar haber entregado a la Coordinación Académica la publicación académica (artículo científico) referida en el artículo 56, fracción , inciso b.
+
+=== CHUNK 131 ===
+Artículo 62 (continuación). Toda polémica concerniente a las opciones de titulación y obtención del grado será resuelta por la Gerencia de Capital Humano, con apoyo de la persona Coordinadora Académica, Subgerencia Docencia o, si las circunstancias lo requieren, por el Comité Académico.
+
+=== CHUNK 132 ===
+**Artículo 63.** Las personas estudiantes de especialización que alcancen el estatus de personas egresadas podrán solicitar directamente el Diploma correspondiente a la Subgerencia de Docencia, siempre y cuando cumplan con las condiciones y los requisitos establecidos en las fracciones I, II, V, VI, VII, IX y X del artículo 62 del presente Reglamento de Posgrados.
+
+# **TÍTULO III**
+
+# **DE LOS PAGOS POR SERVICIOS ESCOLARES**
+
+=== CHUNK 133 ===
+**Artículo 64.** Para los efectos del presente Reglamento de Posgrados estudios es sujeto de pago de los servicios escolares listados enseguida, el curso de programa de autorizados por el Comité Académico, independientemente de otros servicios prestados por parte de INFOTEC a las personas aspirantes, estudiantes y egresadas:
+
+- I. Examen de admisión, en su caso.
+
+- II. Curso propedéutico, en su caso.
+
+- III. Emisión, renovación y reposición de credencial.
+
+- IV. Examen extraordinario.
+
+- V. Recursamiento de asignaturas no acreditadas.
+
+- VI. Titulación.
+
+- VII. Emisión de constancias de estudios parciales.
+
+- VIII. Emisión de certificados de estudios totales.
+
+- IX. Otros relacionados con su trayectoria en el posgrado, definidos por el Comité Académico como sujetos a pago, conforme a la normativa aplicable.
+
+Los pagos de recursamiento de asignaturas deberán cubrirse antes de dar inicio la asignatura.
+
+=== CHUNK 134 ===
+Artículo 64 (continuación). Los pagos de recursamiento de asignaturas deberán cubrirse antes de dar inicio la asignatura.
+
+INFOTEC cobrará cuotas de recuperación que en su caso le sean autorizadas por el Comité Académico al inicio de cada ciclo escolar, que da derecho a cursar las asignaturas de los planes de estudios correspondientes. La persona estudiante podrá solicitar diferir el pago de las cuotas hasta el término del ciclo escolar al que se encuentre inscrito, exponiendo las causas que motivan el diferimiento. La persona estudiante deberá pagar la totalidad de las cuotas adeudas al término de sus estudios.
+
+Los pagos tienen un carácter no reembolsable.
+
+=== CHUNK 135 ===
+**Artículo 65.** Los montos de las cuotas de recuperación referidas en el penúltimo párrafo del artículo  anterior podrán ser modificados en función de:
+
+- I. Personas servidoras públicas de INFOTEC o que prestan servicios profesionales con contrato vigente con INFOTEC podrán solicitar una beca para obtener un descuento de sus cuotas de recuperación, de conformidad con el Reglamento de Admisión y, Becas de INFOTEC.
+
+- II. Convenios con organizaciones públicas y privadas, que prevean una beca para las personas referidas en estos, de conformidad con el Reglamento de Admisión y Becas INFOTEC.
+
+=== CHUNK 136 ===
+Artículo 65 (continuación). - III. Cuando una persona aspirante o estudiante solicite una beca para obtener un descuento de sus cuotas de recuperación. Deberá solicitarlo mediante escrito a la Gerencia de Capital Humano, la cual deberá llevar el caso al Comité de Admisión y Becas, acompañado de estudio socioeconómico y cualquier evidencia adicional de la persona sustentante de la solicitud. Los acuerdos que tome el Comité de Admisión y Becas  respecto de estas solicitudes, serán inapelables.  Lo anterior con el Reglamento de Admisión y Becas de INFOTEC.
+
+Requerimientos de presupuesto operativo de la Dirección Adjunta de Innovación y Conocimiento para garantizar la óptima operación de los programas sin comprometer su calidad.
+
+=== CHUNK 137 ===
+**Artículo 66.** La persona estudiante deberá pagar al inicio de cada ciclo escolar en una sola exhibición la totalidad de la cuota de recuperación referidas en el penúltimo párrafo del artículo 64.
+
+Las personas estudiantes podrán solicitar el aplazamiento del pago de la cuota de recuperación para realizarlo al final del ciclo escolar correspondiente. La solicitud deberá ser presentada por escrito firmado, a través de los medios que INFOTEC establezca, ante la Gerencia de Capital Humano. La Dirección Adjunta de Innovación y Conocimiento autorizará dicha solicitud y se procederá a la firma del Convenio que establecerá los términos y condiciones de bajo los cuales se otorgará el aplazamiento, así como las responsabilidades y obligaciones de la persona estudiante e INFOTEC.
+
+=== CHUNK 138 ===
+**Artículo 67.** La Subgerencia de Docencia dará a conocer oportunamente a las personas aspirantes y estudiantes los montos de las cuotas establecidas en el artículo 64 del presente Reglamento, a través de los medios de comunicación que esta área establezca.
+
+=== CHUNK 139 ===
+**Artículo 68.** Todo trámite relacionado con los pagos deberá ser gestionado por la Subgerencia de Docencia, conforme el procedimiento diseñado para tal fin y de acuerdo con el calendario de pagos que en su caso se haya establecido, antes de su vencimiento.
+
+=== CHUNK 140 ===
+**Artículo 69.** La falta de pago de servicios escolares y cuotas de recuperación correspondientes y que, en su caso, se autoricen, libera totalmente a INFOTEC de la obligación de dar o continuar con la prestación del servicio educativo. De no realizar pago alguno o no le sea autorizado un aplazamiento la persona estudiante, luego de un ciclo escolar, podrá aplicársele una baja temporal por un ciclo escolar. Una vez transcurrido el periodo de baja temporal, de no haberse cumplido el pago en adeudo, la persona estudiante podrá ser dada de baja de manera definitiva, por medio de oficio de la Gerencia de Capital Humano. Casos no previstos podrán ser analizados por la Gerencia de Capital Humano y resueltos por la Dirección Adjunta de Innovación y Conocimiento, previa solicitud de la persona estudiante.
+
+=== CHUNK 141 ===
+**Artículo 70.** Para ser considerados como pago oportuno de las cuotas de recuperación, los comprobantes de pago deberán ser presentados ante la Subgerencia de Docencia dentro de los primeros diez días naturales contados a partir de la fecha de inicio del ciclo escolar correspondiente. La presentación podrá ser física o electrónica, conforme lo establezca la Gerencia de Capital Humano.
+
+Las personas estudiantes tendrán la obligación de conservar los comprobantes de pago para solicitar cualquier aclaración al respecto.
+
+=== CHUNK 142 ===
+**Artículo 71.** Las personas estudiantes irregulares por pasivos deberán regularizar su situación de pagos ante INFOTEC previo a reinscribirse al siguiente ciclo. Casos justificados podrán ser analizados por la Gerencia de Capital Humano y autorizados por la Dirección Adjunta de Innovación Conocimiento, previa solicitud de la persona estudiante.
+
+Toda aclaración sobre pagos que solicite la persona estudiante deberá Subgerencia de Docencia, debiendo ir acompañada hacerla por escrito ante la Subgerencia de Docencia, debiendo ir acompañada por las fichas de depósito correspondiente y/o comprobantes de pago
+
+=== CHUNK 143 ===
+**Artículo 72.** Cuando la persona estudiante en los supuestos señalados en las fracciones I a la lll del artículo 65 de este Reglamento no cumpla con los términos de la beca otorgada, se aplicará lo dispuesto en el Reglamento de Admisión y Becas de INFOTEC.
+
+# **TÍTULO IV**
+
+# **DE LA EVALUACIÓN ACADÉMICA**
+
+=== CHUNK 144 ===
+**Artículo 73.** La evaluación académica de cada asignatura será realizada conforme a los criterios de evaluación en las estrategias de aprendizaje, presentados a las personas estudiantes por la persona docente al inicio del curso.
+
+=== CHUNK 145 ===
+**Artículo 74.** Las asignaturas que evaluadas con la escala numérica cuentan con créditos específicos de O (cero) a 10 (diez), con en el plan de estudios serán un decimal. La calificación mínima necesaria para acreditar una asignatura será 7.0 (siete punto cero) y la máxima será 10.0 (diez puntos cero).
+
+=== CHUNK 146 ===
+**Artículo 75.** Las asignaturas que no tienen asignados créditos y están registradas en el plan de estudios, serán evaluadas con “A”, en caso de ser aprobado, “NA” en caso de no ser aprobadas y “NP”" en caso de que la persona estudiante no se haya presentado con la persona docente.
+
+=== CHUNK 147 ===
+**Artículo 76.** Cuando la evaluación corresponda a “NA” o “NP”, la asignatura será considerada como reprobada para efectos del plan de estudios.
+
+=== CHUNK 148 ===
+**Artículo 77.** La calificación obtenida en las evaluaciones es irrenunciable, por ello la persona estudiante no puede volver a cursar una asignatura ya aprobada con el solo propósito de intentar mejorar su promedio.
+
+=== CHUNK 149 ===
+**Artículo 78.** Para tener derecho a que se registre en el Kárdex la calificación final por asignatura, las personas estudiantes deben cumplir con los siguientes requisitos:
+
+- I. Estar inscrita en la asignatura
+
+- II. Cubrir, en su caso, la asistencia mínima conforme a la modalidad del programa de estudios y lo requerido por la persona docente.
+
+- III. No estar sujeta a sanción disciplinaria alguna.
+
+=== CHUNK 150 ===
+**Artículo 79.** El resultado de la evaluación es responsabilidad exclusiva de la persona docente titular de la asignatura, quien deberá registrar las calificaciones finales de las personas estudiantes en el Sistema Integral de Gestión Académica, de conformidad con el calendario de captura de plataforma.
+
+=== CHUNK 151 ===
+**Artículo 80.** De haber inconformidad con la calificación obtenida una vez publicadas las mismas, la persona estudiante podrá solicitar la revisión de la evaluación, siempre y cuando esto se haga por escrito, justificando y motivando su solicitud de revisión de la evaluación en mención, en un plazo no mayor a 3 (tres) días hábiles de su disponibilidad en el sistema. La revisión se deberá solicitar a la persona docente responsable de la asignatura, a través de la cuenta de correo electrónico que tenga registrada en el Aula Virtual. La persona estudiante deberá enviar copia del mensaje de solicitud de revisión de evaluación a la persona Coordinadora Académica del plan de estudios de posgrado correspondiente y a la Subgerencia de Docencia.
+
+Si la persona estudiante no realiza la solicitud de revisión en el plazo de 3 (tres) días hábiles estipulados, se entenderá por renunciado su derecho a solicitarla.
+
+=== CHUNK 152 ===
+**Artículo 81.** La Subgerencia de Docencia podrá enviar recordatorios del asentamiento de a las personas estudiantes, mediante la dirección de correo electrónico que haya registrado ante dicha área para recibir avisos y notificaciones; sin embargo, será responsabilidad de las personas estudiantes su consulta en el SIGA.
+
+=== CHUNK 153 ===
+**Artículo 82** . Cuando se detecten errores en el historial académico o en los sistemas informáticos en los que se reportan los resultados de la evaluación, se procederá a la verificación y en su caso
+
+rectificación de la misma, independientemente de que estos provoquen la inconformidad de la persona estudiante.
+
+=== CHUNK 154 ===
+**Artículo 83.** En caso de que la persona estudiante detecte alguna anomalía en su historial académico podrá solicitar por escrito dirigido a la Subgerencia de Docencia una revisión y, en su caso, corrección, mostrando la documentación de soporte.
+
+# **TÍTULO V DE LAS REVALIDACIONES Y LAS EQUIVALENCIAS**
+
+=== CHUNK 155 ===
+**Artículo 84.** La persona estudiante que haya acreditado cursos de otro programa de posgrado ofertado por INFOTEC, podrá solicitar por escrito ante la Subgerencia de Docencia sean declarados equivalentes con objeto de ser considerados como asignaturas aprobadas dentro de su actual plan de estudios, con la correspondiente asignación de créditos. La Subgerencia de Docencia, con la asistencia de la Coordinación Académica respectiva, coordinará la realización de un estudio de contenidos y créditos con las asignaturas que integran el plan de estudios en INFOTEC en el cual está inscrita la persona estudiante, para emitir su opinión, que deberá ser aprobada por el NAB del posgrado correspondiente o, de no estar conformado este para el programa de posgrados en el cual se buscan revalidar las asignaturas, por el Comité Académico.
+
+=== CHUNK 156 ===
+**Artículo 85.** Las personas estudiantes de INFOTEC que deseen cursar asignaturas en otras instituciones académicas, públicas, privadas, de la industria o de organismos internacionales, con la intención de que éstas sean revalidadas, deberán solicitarlo al Comité Académico previamente a cursarlas, para conocer si cuentan con la autorización y, en su caso el número de créditos correspondientes. Lo anterior sin alterar las cuotas de recuperación autorizadas del programa de posgrado que debe cubrir la persona estudiante.
+
+=== CHUNK 157 ===
+**Artículo 86.** Si INFOTEC promueve el intercambio educativo de estudiantes, en el marco de convenios interinstitucionales y contando con el presupuesto o contribución propia de las mismas, deberá preferirse a la persona estudiante que presenten el promedio más alto en ese momento.
+
+=== CHUNK 158 ===
+**Artículo 87.** Aquellas personas externas que deseen cursar asignaturas en INFOTEC, podrán solicitarlo por escrito a la Gerencia de Capital Humano, con al menos 20 días naturales de antelación.
+
+El monto de la asignatura será definido por la Dirección Adjunta de Innovación y Conocimiento, a partir de los montos de cuotas de recuperación que, en su caso, se autoricen para personas estudiantes de posgrados. Este monto podrá ser modificado considerando los acuerdos de colaboración e intercambio académico celebrados con la institución de origen de la persona solicitante, en caso de existir.
+
+**TÍTULO VI**
+
+# **DEL MANEJO Y TRATAMIENTO DE DATOS PERSONALES**
+
+=== CHUNK 159 ===
+**Artículo88.** El acceso, manejo, recopilación, resguardo, rectificación, cancelación, oposición y en general los derechos obligaciones y disposiciones relacionadas con el tratamiento de los datos personales de docentes y estudiantes estarán protegidos y resguardados conforme a la Ley Federal de Transparencia y Acceso a la Información Pública, Ley General de Transparencia y Acceso a la Información Pública, Ley General de Protección de Datos Personales en Posesión de Sujetos. Obligados y demás normatividad que al efecto expida la autoridad competente.
+
+Tanto el personal docente como las personas estudiantes deberán conocer el aviso de privacidad en el que se les informará el tratamiento de sus datos personales, el cual estará disponible para su consulta en el sitio web institucional.
+
+=== CHUNK 160 ===
+Artículo88 (continuación). En todo momento la persona titular de los datos personales podrá tener acceso a dichos datos que obren en poder de la Subgerencia de Docencia, y de igual manera podrá ejercer sus derechos de Acceso, Rectificación, Cancelación y Oposición (ARCO) de conformidad con aviso de privacidad correspondiente.
+
+# **TÍTULO VI**
+
+# **DE LAS REFORMAS AL REGLAMENTO DE POSGRADOS Y CASOS IMPREVISTOS**
+
+=== CHUNK 161 ===
+**Artículo 89.** Las modificaciones al Reglamento de Posgrados deberán ser propuestas para su aprobación en forma oportuna a la persona titular de la Dirección Ejecutiva de INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación, previa validación del área de Asuntos Jurídicos de INFOTEC.
+
+=== CHUNK 162 ===
+**Artículo 90.** La resolución de los casos no previstos derivados de la aplicación del presente Reglamento de Posgrados o la interpretación del mismo, serán atendidas por la Gerencia de Capital Humano, con autorización de la Dirección Adjunta de Innovación y Conocimiento, en su caso, por el Comité Académico.
+
+# **TÍTULO VIII DE LAS INCONFORMIDADES**
+
+=== CHUNK 163 ===
+**Artículo 91.** Cuando exista alguna inconformidad por parte de la persona estudiante, ésta deberá agotar todas las instancias correspondientes: Coordinación Académica, Subgerencia de Docencia, Gerencia de Capital Humano y Dirección Adjunta de Innovación y Conocimiento, antes de llegar a presentar su caso ante el Comité Académico.
+
+=== CHUNK 164 ===
+**Artículo 92.** Para manifestar su inconformidad ante el Comité Académico deberá presentar ante la  Gerencia de Capital Humano un escrito, debidamente fundado y motivado. No se recibirán inconformidades en Comité Académico si la fecha de origen de la inconformidad es anterior a los tres meses naturales. En tal escrito, la persona estudiante deberá de proporcionar pruebas que sustenten el motivo de su inconformidad. Dichas pruebas deberán de estar directamente relacionadas al asunto y no ser contrarias al derecho o la moral.
+
+Una vez recibido el escrito, la persona Presidente del Comité Académico convocará a sesión en un plazo de veinte días hábiles.
+
+La resolución emitida por el Comité Académico será inapelable conforme al artículo 5 del presente Reglamento de Posgrados, notificando a los interesados por escrito o correo electrónico.
+
+# **TRANSITORIOS**
+
+=== CHUNK 165 ===
+Artículo 92 (continuación). # **TRANSITORIOS**
+
+**PRIMERO.** El presente Reglamento entrará en vigor el día siguiente a la aprobación de la persona titular de la Dirección Ejecutiva.
+
+**SEGUNDO.** El presente instrumento deja sin efecto al anterior Reglamento de Posgrados, aprobado por la Dirección Ejecutiva de INFOTEC en enero de 2021. Los asuntos que se encuentren en trámite antes de la entrada en vigor del presente Reglamento de Posgrados se resolverán de conformidad con el ordenamiento legal que le dio origen.
+
+**TERCERO.** La gratuidad de los programas de posgrados de INFOTEC y el cobro  de concepto equivalentes a colegiaturas o cuotas de recuperación, se implementará de manera progresiva, de  conformidad con lo establecido en la normativa aplicable.
+
+=== CHUNK 166 ===
+Artículo 92 (continuación). **CUARTO.** Las personas estudiantes de cohortes generacionales de programas de maestría profesionalizantes, anteriores a la entrada en vigor del presente Reglamento, que no hayan concluido el proceso de obtención de grado, podrán registrar y desarrollar alguna de las opciones de titulación mencionadas en el artículo 43, con excepción de la opción  por Excelencia Académica y, en su caso, de acuerdo con aquellas que estén vigentes y disponibles para su programa de posgrados. Asimismo, las personas estudiantes irregulares por situación académica y personas egresadas de cohortes generacionales anteriores a la entrada en vigor del presente Reglamento, podrán, en su caso, acreditar asignaturas no aprobadas relacionadas con el trabajo terminal de titulación, con la aprobación del producto académico de la opción de titulación seleccionada
+
+=== CHUNK 167 ===
+Artículo 92 (continuación). . Las personas señaladas en este transitorio podrán optar por cualquiera de las opciones de titulación aplicables a su caso previstas en este Reglamento, mediante acuerdo del Comité Académico.
+
+=== CHUNK 168 ===
+Artículo 92 (continuación). **QUINTO.** La aplicación del presente Reglamento no implica la creación de nuevas plazas o áreas en  términos del Manual de Organización de INFOTEC, por lo cual los Comités o áreas aquí señalados operarán con la estructura actual de INFOTEC.
+

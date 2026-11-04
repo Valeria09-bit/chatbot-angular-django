@@ -17,7 +17,6 @@ from sentence_transformers import SentenceTransformer
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
-
 def cargar_chroma():
     """Conecta a la base de Chroma."""
     client = chromadb.PersistentClient(path=CHROMA_PATH)
@@ -51,6 +50,9 @@ def construir_prompt(pregunta, chunks):
         se refiere al PERFIL DE INGRESO de la maestría: explícalo con el contexto.
     8. Nunca pidas datos personales al usuario.
     9. No uses formato Markdown: sin #, sin ** ni negritas. 
+    10. Termina la oracion completa sin cortar la respuesta a la mitad, aunque sea larga. No digas "continúa" ni "sigue", solo termina la respuesta completa.
+   - No sumes ni calcules cantidades. Cita los montos tal cual y di a qué concepto corresponden.
+   - Si preguntan por el costo de la maestría y el contexto dice que no hay cobro de inscripción, indícalo.
 
 CONTEXTO:
 {contexto}

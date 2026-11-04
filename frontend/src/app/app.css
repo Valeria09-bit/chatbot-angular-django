@@ -85,8 +85,8 @@
 
 .mensaje-bot {
   align-self: flex-start;
-  background: #bb8b2c;
-  color: #000;
+  background: #063b31;
+  color: #eeecec;
   border-bottom-left-radius: 2px;
   white-space: pre-wrap;
 }
@@ -138,7 +138,7 @@
 .punto {
   width: 8px;
   height: 8px;
-  background-color: #000;
+  background-color: #f5f1f1;
   border-radius: 50%;
   opacity: 0.6;
   animation: rebote 1.4s infinite ease-in-out both;
