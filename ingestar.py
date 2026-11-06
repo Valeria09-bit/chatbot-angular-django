@@ -1,19 +1,4 @@
-"""
-ingestar.py  -  Pipeline de ingesta para la base de conocimiento del chatbot MCDI.
 
-Para cada PDF en backend/Documentos/:
-  1. Extrae el texto con PyMuPDF4LLM (igual que llm_pruebas/pdf.py)
-  2. Lo divide en chunks (por artículos si es un reglamento, por secciones
-     numeradas si es una convocatoria; mismo splitter que llm_pruebas/chunking.py)
-  3. Genera embeddings (paraphrase-multilingual-mpnet-base-v2)
-  4. Los guarda en Chroma (colección "convocatoria_mcdi", la que leen los scripts RAG)
-
-Uso (desde la raíz del proyecto, con el entorno virtual activo):
-    python ingestar.py              # agrega/actualiza los PDF de Documentos/
-    python ingestar.py --reset      # borra la colección y reconstruye todo
-    python ingestar.py --solo-chunks  # no toca Chroma, solo escribe chunks_<pdf>.txt para revisar
-    python ingestar.py archivo.pdf  # procesa solo ese PDF
-"""
 import re
 import sys
 from pathlib import Path
@@ -25,8 +10,8 @@ RUTA_CHROMA = str(RAIZ / "chroma_db")
 COLECCION = "convocatoria_mcdi"
 MODELO_EMB = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
 
-TAM_SECCION = 1200      # documentos tipo convocatoria
-TAM_ARTICULO = 1000     # documentos tipo reglamento
+TAM_SECCION = 1200      # documentos convocatoria
+TAM_ARTICULO = 1000     # documentos reglamento
 TRASLAPE = 100
 # Encabezado de artículo; tolera "**Artículo 3** ." (negritas de markdown) y "Artículo88."
 PAT_ART = r"(?m)^\W*Art[ií]culo\s*\d+[\s*]*\."
@@ -37,7 +22,7 @@ MIN_ARTICULOS = 10      # si hay al menos estos "Artículo N." se usa el modo re
 def extraer(ruta_pdf: Path) -> str:
     import pymupdf4llm
     texto = pymupdf4llm.to_markdown(str(ruta_pdf))
-    texto = re.sub(r"-\n(\w)", r"\1", texto)     # palabras cortadas con guion al final de línea
+    texto = re.sub(r"-\n(\w)", r"\1", texto)     # palabras cortadas 
     texto = re.sub(r"[ \t]+\n", "\n", texto)
     texto = re.sub(r"\n{3,}", "\n\n", texto)
     return texto
@@ -74,7 +59,7 @@ def chunks_por_articulos(texto: str) -> list[str]:
 
 def chunks_por_secciones(texto: str) -> list[str]:
     splitter = _splitter(TAM_SECCION)
-    # encabezados numerados en MAYÚSCULAS, con o sin '#' de markdown (p. ej. "# 5. COSTOS")
+    # encabezados numerados en MAYÚSCULAS, con o sin '#' de markdown 
     secciones = [s.strip() for s in re.split(r"(?m)(?=^[#*\s]*\d+\.\s+[A-ZÁÉÍÓÚÑ]{3})", texto) if s.strip()]
     chunks = []
     for s in secciones:
@@ -129,7 +114,7 @@ def main():
     col = client.get_or_create_collection(COLECCION)
 
     modelo = SentenceTransformer(MODELO_EMB)
-    modelo.max_seq_length = 384     # el default (128) recorta los chunks largos
+    modelo.max_seq_length = 384     # recorta los chunks largos
 
     for nombre, chunks in docs.items():
         col.delete(where={"fuente": nombre})     # re-ejecutar actualiza, no duplica
